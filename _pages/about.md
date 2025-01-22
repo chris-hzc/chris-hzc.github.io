@@ -32,9 +32,11 @@ I am a big fan of basketball and I idolize Chris Paul and Allen Iverson. Our tea
 
 
 
+
 # 🔥 News
 <div class="news-container">
   <ul>
+    <li> 🎉 2025.01: Our paper <a href="https://arxiv.org/abs/2410.04577">"Robustness Reprogramming for Representation Learning"</a> is accepted by ICLR 2025. See you in Singapore! It explores an intriguing and fundamental open challenge in Trustworthy AI: Given any well-trained deep learning model, can it be reprogrammed to enhance its robustness? </li>
     <li> 📖 2024.12: New preprint: Post-hoc Interpretability Illumination for Scientific Interaction Discovery.  <a href="https://arxiv.org/abs/2412.16252">https://arxiv.org/abs/2412.16252</a></li>
     <li> 📖 2024.11: New preprint: Exploring the Potentials and Challenges of Using Large Language Models for the Analysis of Transcriptional Regulation of Long Non-coding RNAs.  <a href="https://arxiv.org/abs/2411.03522">https://arxiv.org/abs/2411.03522</a></li>
     <li> 🎉 2024.10: One paper is accepted by IEEE BigData 2024.</li>
@@ -62,7 +64,36 @@ As a researcher with a background in both Mathematics and AI, I am deeply engage
 
 - Graph: <a href="https://arxiv.org/abs/2311.14934v2">**[NeurIPS 2024]** Robust Graph Neural Networks via Unbiased Aggregation</a>
 - Language: <a href="https://arxiv.org/abs/2410.23182">**[NeurIPS 2024]** ProTransformer: Robustify Transformers via Plug-and-Play Paradigm</a>
-- Vision: <a href="https://arxiv.org/abs/2410.04577">**[Preprint 2024]** Robustness Reprogramming for Representation Learning</a>
+- Vision: <a href="https://arxiv.org/abs/2410.04577">**[ICLR 2025]** Robustness Reprogramming for Representation Learning</a>
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/robust_repro.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+
+<span style="font-size: 1.2em;">
+    <a href="https://arxiv.org/abs/2410.04577" style="text-decoration: none; color: inherit;">
+        Robustness Reprogramming for Representation Learning
+    </a>
+</span>
+
+**<u>Zhichao Hou</u>**, MohamadAli Torkamani, Hamid Krim, Xiaorui Liu
+
+*The International Conference on Learning Representations (ICLR), 2025*
+
+<div style="display: flex; gap: 5px; margin-top: 10px;">
+    <a href="https://arxiv.org/abs/2410.04577.pdf" style="text-decoration: none; padding: 4px 8px; border: 1px solid black; color: black; border-radius: 4px;">PDF</a>
+    <a href="https://github.com/chris-hzc/NRPM" style="text-decoration: none; padding: 4px 8px; border: 1px solid black; color: black; border-radius: 4px;">Code</a>
+
+
+</div>
+
+</div>
+
+</div>
+
+
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/protransformer.png' alt="sym" width="100%"></div></div>
@@ -83,11 +114,13 @@ As a researcher with a background in both Mathematics and AI, I am deeply engage
     <a href="https://github.com/chris-hzc/ProTransformer.git" style="text-decoration: none; padding: 4px 8px; border: 1px solid black; color: black; border-radius: 4px;">Code</a>
     <a href="images/protransformer_poster.png" style="text-decoration: none; padding: 4px 8px; border: 1px solid black; color: black; border-radius: 4px;">Poster</a>
 </div>
-
-</div>
 </div>
 
 
+
+
+
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/rung.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -112,31 +145,6 @@ As a researcher with a background in both Mathematics and AI, I am deeply engage
 </div>
 </div>
 
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2024</div><img src='images/robust_repro.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-
-<span style="font-size: 1.2em;">
-    <a href="https://arxiv.org/abs/2410.04577" style="text-decoration: none; color: inherit;">
-        Robustness Reprogramming for Representation Learning
-    </a>
-</span>
-
-**<u>Zhichao Hou</u>**, MohamadAli Torkamani, Hamid Krim, Xiaorui Liu
-
-*Preprint, 2024*
-
-<div style="display: flex; gap: 5px; margin-top: 10px;">
-    <a href="https://arxiv.org/abs/2410.04577.pdf" style="text-decoration: none; padding: 4px 8px; border: 1px solid black; color: black; border-radius: 4px;">PDF</a>
-    <a href="https://github.com/chris-hzc/NRPM" style="text-decoration: none; padding: 4px 8px; border: 1px solid black; color: black; border-radius: 4px;">Code</a>
-
-
-</div>
-
-</div>
-</div>
 
 
 
