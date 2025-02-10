@@ -416,7 +416,7 @@ Jiating Yu, Jiacheng Leng, **<u>Zhichao Hou</u>**, Duanchen Sun, Ling-Yun Wu.
 
 
 # 🎖 Honors and Awards
-- 🏀 *2018.12* Champion of Mingyue Cup Basketball Match of BNU (FMVP)
+- 🏀 *2018.12* Champion of Mingyue Cup Basketball Match of BNU
 - 🏆 *2017/2018/2019* First-class scholarship of Beijing Normal University
 
 # 📖 Educations
