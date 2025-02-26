@@ -36,7 +36,7 @@ I am a big fan of basketball and I idolize Chris Paul and Allen Iverson. Our tea
 # 🔥 News
 <div class="news-container">
   <ul>
-    <li> 🎉 2025.01: Our <a href="https://arxiv.org/abs/2410.04577">"Robustness Reprogramming for Representation Learning"</a> is selected as a Spotlight paper (1.4% &asymp; 162/11670) by ICLR 2025.</li>
+    <li> 🎉 2025.02: Our <a href="https://arxiv.org/abs/2410.04577">"Robustness Reprogramming for Representation Learning"</a> is selected as a Spotlight paper (1.4% &asymp; 162/11670) by ICLR 2025.</li>
     <li> 📖 2025.02: New preprint:  <a href="https://arxiv.org/abs/2502.00834">Boosting Adversarial Robustness and Generalization with Structural Prior. </a></li>
     <li> 🎉 2025.01: Our paper <a href="https://arxiv.org/abs/2410.04577">"Robustness Reprogramming for Representation Learning"</a> is accepted by ICLR 2025. See you in Singapore! It explores an intriguing and fundamental open challenge in Trustworthy AI: Given any well-trained deep learning model, can it be reprogrammed to enhance its robustness? </li>
     <li> 📖 2024.12: New preprint: Post-hoc Interpretability Illumination for Scientific Interaction Discovery.  <a href="https://arxiv.org/abs/2412.16252">https://arxiv.org/abs/2412.16252</a></li>
