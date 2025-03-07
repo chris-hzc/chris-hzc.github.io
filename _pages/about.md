@@ -36,6 +36,7 @@ I am a big fan of basketball and I idolize Chris Paul and Allen Iverson. Our tea
 # 🔥 News
 <div class="news-container">
   <ul>
+    <li> 🎉 2025.01: Our paper <a href="https://arxiv.org/abs/2502.00834">Boosting Adversarial Robustness and Generalization with Structural Prior. </a> is accepted by ICLR 2025 Workshop XAI4Science. </li>
     <li> 🎉 2025.02: Our <a href="https://arxiv.org/abs/2410.04577">"Robustness Reprogramming for Representation Learning"</a> is selected as a Spotlight paper (1.4% &asymp; 162/11670) by ICLR 2025.</li>
     <li> 📖 2025.02: New preprint:  <a href="https://arxiv.org/abs/2502.00834">Boosting Adversarial Robustness and Generalization with Structural Prior. </a></li>
     <li> 🎉 2025.01: Our paper <a href="https://arxiv.org/abs/2410.04577">"Robustness Reprogramming for Representation Learning"</a> is accepted by ICLR 2025. See you in Singapore! It explores an intriguing and fundamental open challenge in Trustworthy AI: Given any well-trained deep learning model, can it be reprogrammed to enhance its robustness? </li>
@@ -230,7 +231,7 @@ Weizhi Gao, **<u>Zhichao Hou</u>**, Han Xu, Xiaorui Liu
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2024</div><img src='images/ikf.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR Workshop XAI4Science, 2025</div><img src='images/ikf.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 
@@ -242,7 +243,7 @@ Weizhi Gao, **<u>Zhichao Hou</u>**, Han Xu, Xiaorui Liu
 
 Ling Zhang, **<u>Zhichao Hou</u>**, Tingxiang Ji, Yuanyuan Xu, Runze Li
 
-*Preprint, 2024*
+*ICLR Workshop XAI4Science, 2025*
 
 
 <div style="display: flex; gap: 5px; margin-top: 10px;">
