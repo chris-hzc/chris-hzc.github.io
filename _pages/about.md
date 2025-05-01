@@ -36,6 +36,7 @@ I am a big fan of basketball and I idolize Chris Paul and Allen Iverson. Our tea
 # 🔥 News
 <div class="news-container">
   <ul>
+    <li> 🎉 2025.05: Our paper <a href="">"Modulated Diffusion: Accelerating Generative Modeling with Modulated Quantization." </a> is accepted by ICML 2025. </li>
     <li> 🎉 2025.03: Our paper <a href="https://arxiv.org/abs/2502.00834">"Boosting Adversarial Robustness and Generalization with Structural Prior." </a> is accepted by ICLR 2025 Workshop XAI4Science. </li>
     <li> 🎉 2025.02: Our <a href="https://arxiv.org/abs/2410.04577">"Robustness Reprogramming for Representation Learning"</a> is selected as a Spotlight paper (1.4% &asymp; 162/11670) by ICLR 2025.</li>
     <li> 📖 2025.02: New preprint:  <a href="https://arxiv.org/abs/2502.00834">Boosting Adversarial Robustness and Generalization with Structural Prior. </a></li>
@@ -180,6 +181,35 @@ As a researcher with a background in both Mathematics and AI, I am deeply engage
 
 </div>
 </div>
+
+
+
+
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/modulated_diffusion.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<span style="font-size: 1.2em;">
+    <a href="" style="text-decoration: none; color: inherit;">
+        Modulated Diffusion: Accelerating Generative Modeling with Modulated Quantization
+    </a>
+</span>
+
+
+Weizhi Gao, **<u>Zhichao Hou</u>**, Junqi Yin, Feiyi Wang, Linyu Peng, Xiaorui Liu 
+
+*International Conference on Machine Learning (ICML), 2025*
+
+<div style="display: flex; gap: 5px; margin-top: 10px;">
+    <a href="" style="text-decoration: none; padding: 4px 8px; border: 1px solid black; color: black; border-radius: 4px;">PDF</a>
+    <a href="" style="text-decoration: none; padding: 4px 8px; border: 1px solid black; color: black; border-radius: 4px;">Code</a>
+</div>
+
+</div>
+</div>
+
 
 
 
