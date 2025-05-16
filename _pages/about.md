@@ -20,7 +20,9 @@ redirect_from:
 I am currently Ph.D student of Computer Science at <a href="https://www.ncsu.edu/">North Carolina State University</a>, where I am fortunately advised by  <a href="https://sites.google.com/ncsu.edu/xiaorui/"> Prof. Xiaorui Liu</a>. Prior to that, I got my M.S. degree in Applied Mathematics at <a href="http://www.amss.ac.cn/">Academy of Mathematics and Systems Science, Chinease Academy of Sciences</a>, advised by <a href="http://wulab.ac.cn/">Lingyun Wu</a>.
 I received my B.S. degree in Applied Mathematics at <a href="http://math.bnu.edu.cn/">Beijing Normal University</a>, where I was advised by <a href="http://math.bnu.edu.cn/jzg/szdw/ac/212928.htm">Huajie Chen</a> and <a href="http://math.bnu.edu.cn/jzg/szdw/ac/212930.htm">Li Cui</a>.
 
-I have several research experiences in industry, including <a href="https://aws.amazon.com/guardduty/">Amazon GuardDuty</a>, <a href="https://ir.baidu.com/">Baidu, Inc.</a>, <a href="https://air.tsinghua.edu.cn/">Tsinghua AIR</a>, and  <a href="https://www.ai-quants.com/#/">AiQuant</a>.
+I have several research experiences in industry, including <a href="https://www.amazon.science/research-areas/automated-reasoning">Automated Reasoning at AWS AI</a>,
+<a href="https://aws.amazon.com/guardduty/">Amazon GuardDuty</a>, <a href="https://ir.baidu.com/">Baidu, Inc.</a>, and  <a href="https://air.tsinghua.edu.cn/">Tsinghua AIR</a>.
+<!-- , and  <a href="https://www.ai-quants.com/#/">AiQuant</a>. -->
 
 
 I am a big fan of basketball and I idolize Chris Paul and Allen Iverson. Our team won two champions in basketball match in BNU.
@@ -36,6 +38,7 @@ I am a big fan of basketball and I idolize Chris Paul and Allen Iverson. Our tea
 # 🔥 News
 <div class="news-container">
   <ul>
+    <li> 💻 2025.05: I join <a href="https://www.amazon.science/research-areas/automated-reasoning">  Automated Reasoning Group at AWS AI</a> as an Applied Scientist intern at NYC.</li>
     <li> 🎉 2025.05: Our paper <a href="">"Modulated Diffusion: Accelerating Generative Modeling with Modulated Quantization." </a> is accepted by ICML 2025. </li>
     <li> 🎉 2025.03: Our paper <a href="https://arxiv.org/abs/2502.00834">"Boosting Adversarial Robustness and Generalization with Structural Prior." </a> is accepted by ICLR 2025 Workshop XAI4Science. </li>
     <li> 🎉 2025.02: Our <a href="https://arxiv.org/abs/2410.04577">"Robustness Reprogramming for Representation Learning"</a> is selected as a Spotlight paper (1.4% &asymp; 162/11670) by ICLR 2025.</li>
@@ -464,6 +467,7 @@ Jiating Yu, Jiacheng Leng, **<u>Zhichao Hou</u>**, Duanchen Sun, Ling-Yun Wu.
 - *2024.01*, Research Lightning Talk on Large Language Models and AI Security, NCSU
 
 # 💻 Internships
+- <img src="images/amazon_logo.png" alt="NCSU Logo" width="20" height="20"> *2025.05 - 2025.08*,  <a href="https://www.amazon.science/research-areas/automated-reasoning">Automated Reasoning Group at AWS AI</a>, New York. Mentor: <a href="https://ferhat.ai/">Ferhat Erata</a>
 - <img src="images/amazon_logo.png" alt="NCSU Logo" width="20" height="20"> *2024.05 - 2024.08*,  <a href="https://aws.amazon.com/guardduty/">Amazon GuardDuty</a>, New York. Mentor: <a href="https://scholar.google.com/citations?user=UtE9noAAAAAJ&hl=en">Ali Torkamani</a>
 - <img src="images/baidu_logo.png" alt="Baidu Logo" width="20" height="20"> *2023.06 - 2023.09*,  <a href="https://ir.baidu.com/">Baidu, Inc.</a>, Beijing. Mentor: <a href="https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&hl=zh-CN&user=2ZkUaYcAAAAJ">Xiaochi Wei</a>
 - <img src="images/air_logo.png" alt="AIR Logo" width="20" height="20"> *2022.03 - 2022.09*,  <a href="https://air.tsinghua.edu.cn/">Institute for AI Industry Research, Tsinghua University</a>, Beijing. Mentor: <a href="https://gsai.ruc.edu.cn/addons/teacher/index/info.html?user_id=31&ruccode=ADIIMVRnBzFXMFdnVTAIOw%3D%3D&ln=en">Wenbing Huang</a>
