@@ -39,7 +39,7 @@ I am a big fan of basketball and I idolize Chris Paul and Allen Iverson. Our tea
 <div class="news-container">
   <ul>
     <li> 💻 2025.05: I join <a href="https://www.amazon.science/research-areas/automated-reasoning">  Automated Reasoning Group at AWS AI</a> as an Applied Scientist intern at NYC.</li>
-    <li> 🎉 2025.05: Our paper <a href="">"Modulated Diffusion: Accelerating Generative Modeling with Modulated Quantization." </a> is accepted by ICML 2025. </li>
+    <li> 🎉 2025.05: Our paper <a href="https://arxiv.org/abs/2506.22463">"Modulated Diffusion: Accelerating Generative Modeling with Modulated Quantization." </a> is accepted by ICML 2025. </li>
     <li> 🎉 2025.03: Our paper <a href="https://arxiv.org/abs/2412.16252">"Post-hoc Interpretability Illumination for Scientific Interaction Discovery." </a> is accepted by ICLR 2025 Workshop XAI4Science. </li>
     <li> 🎉 2025.02: Our <a href="https://arxiv.org/abs/2410.04577">"Robustness Reprogramming for Representation Learning"</a> is selected as a Spotlight paper (1.4% &asymp; 162/11670) by ICLR 2025.</li>
     <li> 📖 2025.02: New preprint:  <a href="https://arxiv.org/abs/2502.00834">Boosting Adversarial Robustness and Generalization with Structural Prior. </a></li>
@@ -195,7 +195,7 @@ As a researcher with a background in both Mathematics and AI, I am deeply engage
 <div class='paper-box-text' markdown="1">
 
 <span style="font-size: 1.2em;">
-    <a href="" style="text-decoration: none; color: inherit;">
+    <a href="https://arxiv.org/abs/2506.22463" style="text-decoration: none; color: inherit;">
         Modulated Diffusion: Accelerating Generative Modeling with Modulated Quantization
     </a>
 </span>
@@ -288,7 +288,7 @@ Ling Zhang, **<u>Zhichao Hou</u>**, Tingxiang Ji, Yuanyuan Xu, Runze Li
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2024</div><img src='images/llm4bio.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MABM, 2025</div><img src='images/llm4bio.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 
@@ -300,7 +300,7 @@ Ling Zhang, **<u>Zhichao Hou</u>**, Tingxiang Ji, Yuanyuan Xu, Runze Li
 
 Wei Wang, **<u>Zhichao Hou</u>**, Xiaorui Liu, Xinxia Peng
 
-*Preprint, 2024*
+*MABM, 2025*
 
 
 <div style="display: flex; gap: 5px; margin-top: 10px;">
