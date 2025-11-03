@@ -38,7 +38,7 @@ I am a big fan of basketball and I idolize Chris Paul and Allen Iverson. Our tea
 # 🔥 News
 <div class="news-container">
   <ul>
-    <li> 📖 2025.02: New preprint:  <a href="https://arxiv.org/abs/2510.26981">Fine-Grained Iterative Adversarial Attacks with Limited Computation Budget. </a></li>
+    <li> 📖 2025.11: New preprint:  <a href="https://arxiv.org/abs/2510.26981">Fine-Grained Iterative Adversarial Attacks with Limited Computation Budget. </a></li>
     <li> 💻 2025.05: I join <a href="https://www.amazon.science/research-areas/automated-reasoning">  Automated Reasoning Group at AWS AI</a> as an Applied Scientist intern at NYC.</li>
     <li> 🎉 2025.05: Our paper <a href="https://arxiv.org/abs/2506.22463">"Modulated Diffusion: Accelerating Generative Modeling with Modulated Quantization." </a> is accepted by ICML 2025. </li>
     <li> 🎉 2025.03: Our paper <a href="https://arxiv.org/abs/2412.16252">"Post-hoc Interpretability Illumination for Scientific Interaction Discovery." </a> is accepted by ICLR 2025 Workshop XAI4Science. </li>
