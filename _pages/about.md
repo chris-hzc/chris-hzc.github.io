@@ -502,6 +502,7 @@ Jiating Yu, Jiacheng Leng, **<u>Zhichao Hou</u>**, Duanchen Sun, Ling-Yun Wu.
 - *2024.01*, Research Lightning Talk on Large Language Models and AI Security, NCSU
 
 # 💻 Internships
+- <img src="images/amazon_logo.png" alt="NCSU Logo" width="20" height="20"> *2025.08 - 2025.12*,  <a href="https://www.amazon.science/research-areas/automated-reasoning">Automated Reasoning Group at AWS AI</a>, Remote. Mentor: <a href="https://ferhat.ai/">Ferhat Erata</a>
 - <img src="images/amazon_logo.png" alt="NCSU Logo" width="20" height="20"> *2025.05 - 2025.08*,  <a href="https://www.amazon.science/research-areas/automated-reasoning">Automated Reasoning Group at AWS AI</a>, New York. Mentor: <a href="https://ferhat.ai/">Ferhat Erata</a>
 - <img src="images/amazon_logo.png" alt="NCSU Logo" width="20" height="20"> *2024.05 - 2024.08*,  <a href="https://aws.amazon.com/guardduty/">Amazon GuardDuty</a>, New York. Mentor: <a href="https://scholar.google.com/citations?user=UtE9noAAAAAJ&hl=en">Ali Torkamani</a>
 - <img src="images/baidu_logo.png" alt="Baidu Logo" width="20" height="20"> *2023.06 - 2023.09*,  <a href="https://ir.baidu.com/">Baidu, Inc.</a>, Beijing. Mentor: <a href="https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&hl=zh-CN&user=2ZkUaYcAAAAJ">Xiaochi Wei</a>
