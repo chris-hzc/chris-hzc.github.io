@@ -233,6 +233,35 @@ As a researcher with a background in both Mathematics and AI, I am deeply engage
 
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2025</div><img src='images/MSGEN.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+
+<span style="font-size: 1.2em;">
+    <a href="" style="text-decoration: none; color: inherit;">
+    Hierarchical Multi-Scale Molecular Conformer Generation with Structural Awareness
+    </a>
+</span>
+
+
+Jiapeng Hu, Weizhi Gao, **<u>Zhichao Hou</u>**, Xiaorui Liu
+
+
+*The International Conference on Learning Representations (ICLR), 2026*
+
+
+<div style="display: flex; gap: 5px; margin-top: 10px;">
+    <a href="" style="text-decoration: none; padding: 4px 8px; border: 1px solid black; color: black; border-radius: 4px;">PDF</a>
+</div>
+
+</div>
+</div>
+
+
+
+
+
+
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/modulated_diffusion.png' alt="sym" width="100%"></div></div>
