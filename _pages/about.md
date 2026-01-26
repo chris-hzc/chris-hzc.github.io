@@ -38,6 +38,7 @@ I am a big fan of basketball and I idolize Chris Paul and Allen Iverson. Our tea
 # 🔥 News
 <div class="news-container">
   <ul>
+    <li> 🎉 2026.01: Our papers <a href="https://arxiv.org/abs/2510.26981">Fine-Grained Iterative Adversarial Attacks with Limited Computation Budget. </a> and <a href="">Hierarchical Multi-Scale Molecular Conformer Generation with Structural Awareness </a> are accepted by ICLR 2026. </li>
     <li> 📖 2025.11: New preprint:  <a href="https://arxiv.org/abs/2510.26981">Fine-Grained Iterative Adversarial Attacks with Limited Computation Budget. </a></li>
     <li> 💻 2025.05: I join <a href="https://www.amazon.science/research-areas/automated-reasoning">  Automated Reasoning Group at AWS AI</a> as an Applied Scientist intern at NYC.</li>
     <li> 🎉 2025.05: Our paper <a href="https://arxiv.org/abs/2506.22463">"Modulated Diffusion: Accelerating Generative Modeling with Modulated Quantization." </a> is accepted by ICML 2025. </li>
@@ -73,6 +74,33 @@ As a researcher with a background in both Mathematics and AI, I am deeply engage
 - Graph: <a href="https://arxiv.org/abs/2311.14934v2">**[NeurIPS 2024]** Robust Graph Neural Networks via Unbiased Aggregation</a>
 - Language: <a href="https://arxiv.org/abs/2410.23182">**[NeurIPS 2024]** ProTransformer: Robustify Transformers via Plug-and-Play Paradigm</a>
 - Vision: <a href="https://arxiv.org/abs/2410.04577">**[ICLR 2025]** Robustness Reprogramming for Representation Learning</a>
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2025</div><img src='images/spiking_pgd.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+
+<span style="font-size: 1.2em;">
+    <a href="https://arxiv.org/abs/2510.26981" style="text-decoration: none; color: inherit;">
+        Fine-Grained Iterative Adversarial Attacks with Limited Computation Budget
+    </a>
+</span>
+
+
+**<u>Zhichao Hou</u>**, Weizhi Gao, Xiaorui Liu
+
+*The International Conference on Learning Representations (ICLR), 2026*
+
+
+<div style="display: flex; gap: 5px; margin-top: 10px;">
+    <a href="https://arxiv.org/abs/2510.26981" style="text-decoration: none; padding: 4px 8px; border: 1px solid black; color: black; border-radius: 4px;">PDF</a>
+</div>
+
+</div>
+</div>
+
+
 
 
 
@@ -163,28 +191,9 @@ As a researcher with a background in both Mathematics and AI, I am deeply engage
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2025</div><img src='images/spiking_pgd.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
 
-<span style="font-size: 1.2em;">
-    <a href="https://arxiv.org/abs/2510.26981" style="text-decoration: none; color: inherit;">
-        Fine-Grained Iterative Adversarial Attacks with Limited Computation Budget
-    </a>
-</span>
 
-
-**<u>Zhichao Hou</u>**, Weizhi Gao, Xiaorui Liu
-
-*Preprint, 2025*
-
-
-<div style="display: flex; gap: 5px; margin-top: 10px;">
-    <a href="https://arxiv.org/abs/2510.26981" style="text-decoration: none; padding: 4px 8px; border: 1px solid black; color: black; border-radius: 4px;">PDF</a>
-</div>
-
-</div>
-</div>
 
 
 
@@ -252,51 +261,10 @@ Weizhi Gao, **<u>Zhichao Hou</u>**, Junqi Yin, Feiyi Wang, Linyu Peng, Xiaorui L
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/srs.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-
-<span style="font-size: 1.2em;">
-    <a href="https://arxiv.org/abs/2411.00899" style="text-decoration: none; color: inherit;">
-        Certified Robustness for Deep Equilibrium Models via Serialized Random Smoothing
-    </a>
-</span>
-
-Weizhi Gao, **<u>Zhichao Hou</u>**, Han Xu, Xiaorui Liu
-
-*Neural Information Processing Systems (NeurIPS), 2024*
-
-<div style="display: flex; gap: 5px; margin-top: 10px;">
-    <a href="https://arxiv.org/abs/2411.00899" style="text-decoration: none; padding: 4px 8px; border: 1px solid black; color: black; border-radius: 4px;">PDF</a>
-    <a href="https://github.com/WeizhiGao/Serialized-Randomized-Smoothing" style="text-decoration: none; padding: 4px 8px; border: 1px solid black; color: black; border-radius: 4px;">Code</a>
-</div>
-
-</div>
-</div>
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/estag.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-
-<span style="font-size: 1.2em;">
-    <a href="https://proceedings.neurips.cc/paper_files/paper/2023/hash/8e2a75e0c7b579a6cf176dc0858cde55-Abstract-Conference.html" style="text-decoration: none; color: inherit;">
-        Equivariant spatio-temporal attentive graph networks to simulate physical dynamics
-    </a>
-</span>
-
-**<u>Zhichao Hou</u>**\*, Liming Wu\*, Jirui Yuan, Yu Rong, Wenbing Huang
-
-*Neural Information Processing Systems (NeurIPS), 2023*
-
-<div style="display: flex; gap: 5px; margin-top: 10px;">
-    <a href="https://proceedings.neurips.cc/paper_files/paper/2023/hash/8e2a75e0c7b579a6cf176dc0858cde55-Abstract-Conference.html" style="text-decoration: none; padding: 4px 8px; border: 1px solid black; color: black; border-radius: 4px;">PDF</a>
-    <a href="https://github.com/GLAD-RUC/ESTAG" style="text-decoration: none; padding: 4px 8px; border: 1px solid black; color: black; border-radius: 4px;">Code</a>
-</div>
-
-</div>
-</div>
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR Workshop XAI4Science, 2025</div><img src='images/ikf.png' alt="sym" width="100%"></div></div>
@@ -347,6 +315,36 @@ Wei Wang, **<u>Zhichao Hou</u>**, Xiaorui Liu, Xinxia Peng
 </div>
 
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/srs.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+
+<span style="font-size: 1.2em;">
+    <a href="https://arxiv.org/abs/2411.00899" style="text-decoration: none; color: inherit;">
+        Certified Robustness for Deep Equilibrium Models via Serialized Random Smoothing
+    </a>
+</span>
+
+Weizhi Gao, **<u>Zhichao Hou</u>**, Han Xu, Xiaorui Liu
+
+*Neural Information Processing Systems (NeurIPS), 2024*
+
+<div style="display: flex; gap: 5px; margin-top: 10px;">
+    <a href="https://arxiv.org/abs/2411.00899" style="text-decoration: none; padding: 4px 8px; border: 1px solid black; color: black; border-radius: 4px;">PDF</a>
+    <a href="https://github.com/WeizhiGao/Serialized-Randomized-Smoothing" style="text-decoration: none; padding: 4px 8px; border: 1px solid black; color: black; border-radius: 4px;">Code</a>
+</div>
+
+</div>
+</div>
+
+
+
+
+
+
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE BigData 2024</div><img src='images/autopoly.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -373,6 +371,14 @@ Wendi Yu, **<u>Zhichao Hou</u>**, Xiaorui Liu
 
 </div>
 </div>
+
+
+
+
+
+
+
+
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2024</div><img src='images/hlogformer.png' alt="sym" width="100%"></div></div>
@@ -405,29 +411,6 @@ Wendi Yu, **<u>Zhichao Hou</u>**, Xiaorui Liu
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">BMC Bioinformatics 2023</div><img src='images/pathexpsurv.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-<!-- [PathExpSurv: pathway expansion for explainable survival analysis and disease gene discovery](https://link.springer.com/article/10.1186/s12859-023-05535-2) -->
-
-<span style="font-size: 1.2em;">
-    <a href="https://arxiv.org/abs/2409.15588" style="text-decoration: none; color: inherit;">
-        PathExpSurv: pathway expansion for explainable survival analysis and disease gene discovery
-    </a>
-</span>
-
-**<u>Zhichao Hou</u>**, Jiacheng Leng, Jiating Yu, Zheng Xia, Ling-Yun Wu.
-
-*BMC Bioinformatics, 2023*
-
-
-<div style="display: flex; gap: 5px; margin-top: 10px;">
-    <a href="https://link.springer.com/article/10.1186/s12859-023-05535-2" style="text-decoration: none; padding: 4px 8px; border: 1px solid black; color: black; border-radius: 4px;">PDF</a>
-    <a href="https://github.com/Wu-Lab/PathExpSurv" style="text-decoration: none; padding: 4px 8px; border: 1px solid black; color: black; border-radius: 4px;">Code</a>
-</div>
-
-</div>
-</div>
 
 
 
@@ -456,6 +439,64 @@ Jiating Yu, Jiacheng Leng, **<u>Zhichao Hou</u>**, Duanchen Sun, Ling-Yun Wu.
 
 </div>
 </div>
+
+
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/estag.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+
+<span style="font-size: 1.2em;">
+    <a href="https://proceedings.neurips.cc/paper_files/paper/2023/hash/8e2a75e0c7b579a6cf176dc0858cde55-Abstract-Conference.html" style="text-decoration: none; color: inherit;">
+        Equivariant spatio-temporal attentive graph networks to simulate physical dynamics
+    </a>
+</span>
+
+ Liming Wu\*, **<u>Zhichao Hou</u>**\*, Jirui Yuan, Yu Rong, Wenbing Huang
+
+*Neural Information Processing Systems (NeurIPS), 2023*
+
+<div style="display: flex; gap: 5px; margin-top: 10px;">
+    <a href="https://proceedings.neurips.cc/paper_files/paper/2023/hash/8e2a75e0c7b579a6cf176dc0858cde55-Abstract-Conference.html" style="text-decoration: none; padding: 4px 8px; border: 1px solid black; color: black; border-radius: 4px;">PDF</a>
+    <a href="https://github.com/GLAD-RUC/ESTAG" style="text-decoration: none; padding: 4px 8px; border: 1px solid black; color: black; border-radius: 4px;">Code</a>
+</div>
+
+</div>
+</div>
+
+
+
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">BMC Bioinformatics 2023</div><img src='images/pathexpsurv.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<!-- [PathExpSurv: pathway expansion for explainable survival analysis and disease gene discovery](https://link.springer.com/article/10.1186/s12859-023-05535-2) -->
+
+<span style="font-size: 1.2em;">
+    <a href="https://arxiv.org/abs/2409.15588" style="text-decoration: none; color: inherit;">
+        PathExpSurv: pathway expansion for explainable survival analysis and disease gene discovery
+    </a>
+</span>
+
+**<u>Zhichao Hou</u>**, Jiacheng Leng, Jiating Yu, Zheng Xia, Ling-Yun Wu.
+
+*BMC Bioinformatics, 2023*
+
+
+<div style="display: flex; gap: 5px; margin-top: 10px;">
+    <a href="https://link.springer.com/article/10.1186/s12859-023-05535-2" style="text-decoration: none; padding: 4px 8px; border: 1px solid black; color: black; border-radius: 4px;">PDF</a>
+    <a href="https://github.com/Wu-Lab/PathExpSurv" style="text-decoration: none; padding: 4px 8px; border: 1px solid black; color: black; border-radius: 4px;">Code</a>
+</div>
+
+</div>
+</div>
+
+
+
 
 
 
