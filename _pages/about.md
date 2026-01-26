@@ -77,7 +77,7 @@ As a researcher with a background in both Mathematics and AI, I am deeply engage
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2025</div><img src='images/spiking_pgd.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/spiking_pgd.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 
@@ -233,7 +233,7 @@ As a researcher with a background in both Mathematics and AI, I am deeply engage
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2025</div><img src='images/MSGEN.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/MSGEN.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 
