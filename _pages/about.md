@@ -29,7 +29,6 @@ I am a big fan of basketball and I idolize Chris Paul and Allen Iverson. Our tea
 
 # 💗 Research Interests
 -  Robust and Reliable Machine Learning
--  Automated and Symbolic Reasoning
 -  Graph Machine Learning
 -  AI for Science
 
