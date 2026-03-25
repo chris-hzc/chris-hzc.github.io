@@ -127,11 +127,10 @@ h1:before, .anchor:before {
 
 .pub-entry .pub-title a {
     text-decoration: none;
-    color: inherit;
 }
 
 .pub-entry .pub-title a:hover {
-    text-decoration: underline;
+    text-decoration: none;
 }
 
 .pub-entry .pub-authors {
@@ -178,5 +177,27 @@ h1:before, .anchor:before {
     font-size: 0.95em;
     margin: 0.2em 0 0.35em 0;
     display: block;
+}
+
+/* About page: links dark blue, no underline (overrides theme .page__content a) */
+$about-link-color: #2c4a96;
+$about-link-hover: #1e3a6e;
+
+.page__content a {
+    color: $about-link-color;
+    text-decoration: none;
+
+    &:hover {
+        color: $about-link-hover;
+        text-decoration: none;
+
+        img {
+            box-shadow: 0 0 10px rgba(#000, 0.25);
+        }
+    }
+
+    &:visited {
+        color: $about-link-color;
+    }
 }
 
