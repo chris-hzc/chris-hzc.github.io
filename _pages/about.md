@@ -76,485 +76,89 @@ As a researcher with a background in both Mathematics and AI, I am deeply engage
 - Vision: <a href="https://arxiv.org/abs/2410.04577">**[ICLR 2025]** Robustness Reprogramming for Representation Learning</a>
 
 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/spiking_pgd.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-
-<span style="font-size: 1.2em;">
-    <a href="https://arxiv.org/abs/2510.26981" style="text-decoration: none; color: inherit;">
-        Fine-Grained Iterative Adversarial Attacks with Limited Computation Budget
-    </a>
-</span>
-
-
-**<u>Zhichao Hou</u>**, Weizhi Gao, Xiaorui Liu
-
-*The International Conference on Learning Representations (ICLR), 2026*
-
-
-<div style="display: flex; gap: 5px; margin-top: 10px;">
-    <a href="https://arxiv.org/abs/2510.26981" style="text-decoration: none; padding: 4px 8px; border: 1px solid black; color: black; border-radius: 4px;">PDF</a>
-</div>
-
-</div>
-</div>
-
-
-
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/robust_repro.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-
-<span style="font-size: 1.2em;">
-    <a href="https://arxiv.org/abs/2410.04577" style="text-decoration: none; color: inherit;">
-        Robustness Reprogramming for Representation Learning
-    </a>
-</span>
-
-**<u>Zhichao Hou</u>**, MohamadAli Torkamani, Hamid Krim, Xiaorui Liu
-
-*The International Conference on Learning Representations (ICLR), 2025*
-
-<span style="font-size: 1.1em; color: red;"><strong>Spotlight (1.4 % &asymp; 162/11670)</strong></span>
-
-<div style="display: flex; gap: 5px; margin-top: 10px;">
-    <a href="https://arxiv.org/abs/2410.04577.pdf" style="text-decoration: none; padding: 4px 8px; border: 1px solid black; color: black; border-radius: 4px;">PDF</a>
-    <a href="https://github.com/chris-hzc/NRPM" style="text-decoration: none; padding: 4px 8px; border: 1px solid black; color: black; border-radius: 4px;">Code</a>
-    <a href="images/robustness_reprogramming_poster.png" style="text-decoration: none; padding: 4px 8px; border: 1px solid black; color: black; border-radius: 4px;">Poster</a>
-
-</div>
-
-</div>
-
-</div>
-
-
-
-
-
-
-
-
-
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/protransformer.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1" >
-
-<span style="font-size: 1.2em;">
-    <a href="https://arxiv.org/abs/2410.23182" style="text-decoration: none; color: inherit;">
-        ProTransformer: Robustify Transformers via Plug-and-Play Paradigm
-    </a>
-</span>
-
-**<u>Zhichao Hou</u>**, Weizhi Gao, Yuchen Shen, Feiyi Wang, Xiaorui Liu
-
-*Neural Information Processing Systems (NeurIPS), 2024*
-
-<div style="display: flex; gap: 5px; margin-top: 10px;">
-    <a href="https://arxiv.org/abs/2410.23182.pdf" style="text-decoration: none; padding: 4px 8px; border: 1px solid black; color: black; border-radius: 4px;">PDF</a>
-    <a href="https://github.com/chris-hzc/ProTransformer.git" style="text-decoration: none; padding: 4px 8px; border: 1px solid black; color: black; border-radius: 4px;">Code</a>
-    <a href="images/protransformer_poster.png" style="text-decoration: none; padding: 4px 8px; border: 1px solid black; color: black; border-radius: 4px;">Poster</a>
-</div>
-</div>
-
-
-
-
-
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/rung.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-<span style="font-size: 1.2em;">
-    <a href="https://arxiv.org/abs/2311.14934v2" style="text-decoration: none; color: inherit;">
-        Robust Graph Neural Networks via Unbiased Aggregation
-    </a>
-</span>
-
-
-**<u>Zhichao Hou</u>**, Ruiqi Feng, Tyler Derr, Xiaorui Liu
-
-*Neural Information Processing Systems (NeurIPS), 2024*
-
-<div style="display: flex; gap: 5px; margin-top: 10px;">
-    <a href="https://arxiv.org/abs/2311.14934v2.pdf" style="text-decoration: none; padding: 4px 8px; border: 1px solid black; color: black; border-radius: 4px;">PDF</a>
-    <a href="https://github.com/chris-hzc/RUNG" style="text-decoration: none; padding: 4px 8px; border: 1px solid black; color: black; border-radius: 4px;">Code</a>
-    <a href="images/rung_poster.png" style="text-decoration: none; padding: 4px 8px; border: 1px solid black; color: black; border-radius: 4px;">Poster</a>
-</div>
-
-</div>
-</div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2025</div><img src='images/edlnets.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-
-<span style="font-size: 1.2em;">
-    <a href="https://arxiv.org/abs/2502.00834" style="text-decoration: none; color: inherit;">
-        Boosting Adversarial Robustness and Generalization with Structural Prior
-    </a>
-</span>
-
-
-**<u>Zhichao Hou</u>**, Weizhi Gao, Hamid Krim, Xiaorui Liu
-
-*Preprint, 2025*
-
-
-<div style="display: flex; gap: 5px; margin-top: 10px;">
-    <a href="https://arxiv.org/abs/2502.00834" style="text-decoration: none; padding: 4px 8px; border: 1px solid black; color: black; border-radius: 4px;">PDF</a>
-</div>
-
-</div>
-</div>
-
-
-
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/MSGEN.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-
-<span style="font-size: 1.2em;">
-    <a href="" style="text-decoration: none; color: inherit;">
-    Hierarchical Multi-Scale Molecular Conformer Generation with Structural Awareness
-    </a>
-</span>
-
-
-Jiapeng Hu, Weizhi Gao, **<u>Zhichao Hou</u>**, Xiaorui Liu
-
-
-*The International Conference on Learning Representations (ICLR), 2026*
-
-
-<div style="display: flex; gap: 5px; margin-top: 10px;">
-    <a href="" style="text-decoration: none; padding: 4px 8px; border: 1px solid black; color: black; border-radius: 4px;">PDF</a>
-</div>
-
-</div>
-</div>
-
-
-
-
-
-
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/modulated_diffusion.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-<span style="font-size: 1.2em;">
-    <a href="https://arxiv.org/abs/2506.22463" style="text-decoration: none; color: inherit;">
-        Modulated Diffusion: Accelerating Generative Modeling with Modulated Quantization
-    </a>
-</span>
-
-
-Weizhi Gao, **<u>Zhichao Hou</u>**, Junqi Yin, Feiyi Wang, Linyu Peng, Xiaorui Liu 
-
-*International Conference on Machine Learning (ICML), 2025*
-
-<div style="display: flex; gap: 5px; margin-top: 10px;">
-    <a href="" style="text-decoration: none; padding: 4px 8px; border: 1px solid black; color: black; border-radius: 4px;">PDF</a>
-    <a href="" style="text-decoration: none; padding: 4px 8px; border: 1px solid black; color: black; border-radius: 4px;">Code</a>
-</div>
-
-</div>
-</div>
-
-
-
-
-
-
-
-
-
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR Workshop XAI4Science, 2025</div><img src='images/ikf.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-
-<span style="font-size: 1.2em;">
-    <a href="https://arxiv.org/abs/2412.16252" style="text-decoration: none; color: inherit;">
-        Post-hoc Interpretability Illumination for Scientific Interaction Discovery
-    </a>
-</span>
-
-Ling Zhang, **<u>Zhichao Hou</u>**, Tingxiang Ji, Yuanyuan Xu, Runze Li
-
-*ICLR Workshop XAI4Science, 2025*
-
-
-<div style="display: flex; gap: 5px; margin-top: 10px;">
-    <a href="https://arxiv.org/abs/2412.16252" style="text-decoration: none; padding: 4px 8px; border: 1px solid black; color: black; border-radius: 4px;">PDF</a>
-</div>
-
-</div>
-</div>
-
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MABM, 2025</div><img src='images/llm4bio.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-
-<span style="font-size: 1.2em;">
-    <a href="https://arxiv.org/abs/2411.03522" style="text-decoration: none; color: inherit;">
-        Exploring the Potentials and Challenges of Using Large Language Models for the Analysis of Transcriptional Regulation of Long Non-coding RNAs
-    </a>
-</span>
-
-Wei Wang, **<u>Zhichao Hou</u>**, Xiaorui Liu, Xinxia Peng
-
-*MABM, 2025*
-
-
-<div style="display: flex; gap: 5px; margin-top: 10px;">
-    <a href="https://arxiv.org/abs/2411.03522" style="text-decoration: none; padding: 4px 8px; border: 1px solid black; color: black; border-radius: 4px;">PDF</a>
-    <a href="https://github.com/houzhichao/llm4bio" style="text-decoration: none; padding: 4px 8px; border: 1px solid black; color: black; border-radius: 4px;">Code</a>
-</div>
-
-</div>
-</div>
-
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/srs.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-
-<span style="font-size: 1.2em;">
-    <a href="https://arxiv.org/abs/2411.00899" style="text-decoration: none; color: inherit;">
-        Certified Robustness for Deep Equilibrium Models via Serialized Random Smoothing
-    </a>
-</span>
-
-Weizhi Gao, **<u>Zhichao Hou</u>**, Han Xu, Xiaorui Liu
-
-*Neural Information Processing Systems (NeurIPS), 2024*
-
-<div style="display: flex; gap: 5px; margin-top: 10px;">
-    <a href="https://arxiv.org/abs/2411.00899" style="text-decoration: none; padding: 4px 8px; border: 1px solid black; color: black; border-radius: 4px;">PDF</a>
-    <a href="https://github.com/WeizhiGao/Serialized-Randomized-Smoothing" style="text-decoration: none; padding: 4px 8px; border: 1px solid black; color: black; border-radius: 4px;">Code</a>
-</div>
-
-</div>
-</div>
-
-
-
-
-
-
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE BigData 2024</div><img src='images/autopoly.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-
-
-<span style="font-size: 1.2em;">
-    <a href="https://arxiv.org/abs/2307.07956" style="text-decoration: none; color: inherit;">
-        Automated Polynomial Filter Learning for Graph Neural Networks
-    </a>
-</span>
-
-
-Wendi Yu, **<u>Zhichao Hou</u>**, Xiaorui Liu
-
-*IEEE International Conference on Big Data (IEEE BigData), 2024*
-
-
-<div style="display: flex; gap: 5px; margin-top: 10px;">
-    <a href="https://arxiv.org/abs/2307.07956" style="text-decoration: none; padding: 4px 8px; border: 1px solid black; color: black; border-radius: 4px;">PDF</a>
-    <a href="https://github.com/houzhichao/autopoly" style="text-decoration: none; padding: 4px 8px; border: 1px solid black; color: black; border-radius: 4px;">Code</a>
-</div>
-
-
-
-</div>
-</div>
-
-
-
-
-
-
-
-
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2024</div><img src='images/hlogformer.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-<!-- [HLogformer: A Hierarchical Transformer for Representing Log Data](https://arxiv.org/abs/2408.16803) -->
-
-<span style="font-size: 1.2em;">
-    <a href="https://arxiv.org/abs/2408.16803" style="text-decoration: none; color: inherit;">
-        HLogformer: A Hierarchical Transformer for Representing Log Data
-    </a>
-</span>
-
-
-**<u>Zhichao Hou</u>**, Mina Ghashami, Mikhail Kuznetsov, MohamadAli Torkamani
-
-*Preprint, 2024*
-
-<div style="display: flex; gap: 5px; margin-top: 10px;">
-    <a href="https://arxiv.org/abs/2408.16803" style="text-decoration: none; padding: 4px 8px; border: 1px solid black; color: black; border-radius: 4px;">PDF</a>
-    <a href="https://github.com/houzhichao/hlogformer" style="text-decoration: none; padding: 4px 8px; border: 1px solid black; color: black; border-radius: 4px;">Code</a>
-</div>
-
-</div>
-</div>
-
-
-
-
-
-
-
-
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Briefings in Bioinformatics 2024</div><img src='images/SCARP.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-<!-- [Incorporating network diffusion and peak location information for better single-cell ATAC-seq data analysis](https://academic.oup.com/bib/article/25/2/bbae093/7630481) -->
-
-
-<span style="font-size: 1.2em;">
-    <a href="https://academic.oup.com/bib/article/25/2/bbae093/7630481" style="text-decoration: none; color: inherit;">
-        Incorporating network diffusion and peak location information for better single-cell ATAC-seq data analysis
-    </a>
-</span>
-
-Jiating Yu, Jiacheng Leng, **<u>Zhichao Hou</u>**, Duanchen Sun, Ling-Yun Wu.
-
-*Briefings in Bioinformatics, 2024*
-
-
-<div style="display: flex; gap: 5px; margin-top: 10px;">
-    <a href="https://academic.oup.com/bib/article/25/2/bbae093/7630481" style="text-decoration: none; padding: 4px 8px; border: 1px solid black; color: black; border-radius: 4px;">PDF</a>
-    <a href="https://github.com/Wu-Lab/SCARP" style="text-decoration: none; padding: 4px 8px; border: 1px solid black; color: black; border-radius: 4px;">Code</a>
-</div>
-
-
-</div>
-</div>
-
-
-
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/estag.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-
-<span style="font-size: 1.2em;">
-    <a href="https://proceedings.neurips.cc/paper_files/paper/2023/hash/8e2a75e0c7b579a6cf176dc0858cde55-Abstract-Conference.html" style="text-decoration: none; color: inherit;">
-        Equivariant spatio-temporal attentive graph networks to simulate physical dynamics
-    </a>
-</span>
-
- Liming Wu\*, **<u>Zhichao Hou</u>**\*, Jirui Yuan, Yu Rong, Wenbing Huang
-
-*Neural Information Processing Systems (NeurIPS), 2023*
-
-<div style="display: flex; gap: 5px; margin-top: 10px;">
-    <a href="https://proceedings.neurips.cc/paper_files/paper/2023/hash/8e2a75e0c7b579a6cf176dc0858cde55-Abstract-Conference.html" style="text-decoration: none; padding: 4px 8px; border: 1px solid black; color: black; border-radius: 4px;">PDF</a>
-    <a href="https://github.com/GLAD-RUC/ESTAG" style="text-decoration: none; padding: 4px 8px; border: 1px solid black; color: black; border-radius: 4px;">Code</a>
-</div>
-
-</div>
-</div>
-
-
-
-
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">BMC Bioinformatics 2023</div><img src='images/pathexpsurv.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-<!-- [PathExpSurv: pathway expansion for explainable survival analysis and disease gene discovery](https://link.springer.com/article/10.1186/s12859-023-05535-2) -->
-
-<span style="font-size: 1.2em;">
-    <a href="https://arxiv.org/abs/2409.15588" style="text-decoration: none; color: inherit;">
-        PathExpSurv: pathway expansion for explainable survival analysis and disease gene discovery
-    </a>
-</span>
-
-**<u>Zhichao Hou</u>**, Jiacheng Leng, Jiating Yu, Zheng Xia, Ling-Yun Wu.
-
-*BMC Bioinformatics, 2023*
-
-
-<div style="display: flex; gap: 5px; margin-top: 10px;">
-    <a href="https://link.springer.com/article/10.1186/s12859-023-05535-2" style="text-decoration: none; padding: 4px 8px; border: 1px solid black; color: black; border-radius: 4px;">PDF</a>
-    <a href="https://github.com/Wu-Lab/PathExpSurv" style="text-decoration: none; padding: 4px 8px; border: 1px solid black; color: black; border-radius: 4px;">Code</a>
-</div>
-
-</div>
-</div>
-
-
-
-
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2023</div><img src='images/bbrw.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-<!-- [Can Directed Graph Neural Networks be Adversarially Robust?](https://arxiv.org/pdf/2306.02002) -->
-
-<span style="font-size: 1.2em;">
-    <a href="https://arxiv.org/abs/2306.02002" style="text-decoration: none; color: inherit;">
-        Can Directed Graph Neural Networks be Adversarially Robust?
-    </a>
-</span>
-
-**<u>Zhichao Hou</u>**, Xitong Zhang, Wei Wang, Charu C Aggarwal, Xiaorui Liu
-
-*Preprint, 2023*
-
-
-<div style="display: flex; gap: 5px; margin-top: 10px;">
-    <a href="https://arxiv.org/abs/2306.02002" style="text-decoration: none; padding: 4px 8px; border: 1px solid black; color: black; border-radius: 4px;">PDF</a>
-    <a href="https://github.com/chris-hzc/BBRW" style="text-decoration: none; padding: 4px 8px; border: 1px solid black; color: black; border-radius: 4px;">Code</a>
-</div>
-
-</div>
-</div>
-
-
-
+<ul class="pub-list">
+<li class="pub-entry">
+  <div class="pub-title"><a href="https://arxiv.org/abs/2510.26981"><strong>Fine-Grained Iterative Adversarial Attacks with Limited Computation Budget</strong></a></div>
+  <div class="pub-authors"><strong><u>Zhichao Hou</u></strong>, Weizhi Gao, Xiaorui Liu</div>
+  <div class="pub-meta"><em>The International Conference on Learning Representations (ICLR), 2026</em><span class="pub-badges"><a href="https://arxiv.org/abs/2510.26981" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Paper-a9b76a?style=flat" alt="Paper"></a></span></div>
+</li>
+<li class="pub-entry">
+  <div class="pub-title"><a href="https://arxiv.org/abs/2410.04577"><strong>Robustness Reprogramming for Representation Learning</strong></a></div>
+  <div class="pub-authors"><strong><u>Zhichao Hou</u></strong>, MohamadAli Torkamani, Hamid Krim, Xiaorui Liu</div>
+  <div class="pub-award">Spotlight (1.4% &asymp; 162/11670)</div>
+  <div class="pub-meta"><em>The International Conference on Learning Representations (ICLR), 2025</em><span class="pub-badges"><a href="https://arxiv.org/abs/2410.04577.pdf" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Paper-a9b76a?style=flat" alt="Paper"></a><a href="https://github.com/chris-hzc/NRPM" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Code-535a94?style=flat" alt="Code"></a><a href="images/robustness_reprogramming_poster.png" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Poster-38663d?style=flat" alt="Poster"></a></span></div>
+</li>
+<li class="pub-entry">
+  <div class="pub-title"><a href="https://arxiv.org/abs/2410.23182"><strong>ProTransformer: Robustify Transformers via Plug-and-Play Paradigm</strong></a></div>
+  <div class="pub-authors"><strong><u>Zhichao Hou</u></strong>, Weizhi Gao, Yuchen Shen, Feiyi Wang, Xiaorui Liu</div>
+  <div class="pub-meta"><em>Neural Information Processing Systems (NeurIPS), 2024</em><span class="pub-badges"><a href="https://arxiv.org/abs/2410.23182.pdf" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Paper-a9b76a?style=flat" alt="Paper"></a><a href="https://github.com/chris-hzc/ProTransformer.git" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Code-535a94?style=flat" alt="Code"></a><a href="images/protransformer_poster.png" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Poster-38663d?style=flat" alt="Poster"></a></span></div>
+</li>
+<li class="pub-entry">
+  <div class="pub-title"><a href="https://arxiv.org/abs/2311.14934v2"><strong>Robust Graph Neural Networks via Unbiased Aggregation</strong></a></div>
+  <div class="pub-authors"><strong><u>Zhichao Hou</u></strong>, Ruiqi Feng, Tyler Derr, Xiaorui Liu</div>
+  <div class="pub-meta"><em>Neural Information Processing Systems (NeurIPS), 2024</em><span class="pub-badges"><a href="https://arxiv.org/abs/2311.14934v2.pdf" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Paper-a9b76a?style=flat" alt="Paper"></a><a href="https://github.com/chris-hzc/RUNG" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Code-535a94?style=flat" alt="Code"></a><a href="images/rung_poster.png" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Poster-38663d?style=flat" alt="Poster"></a></span></div>
+</li>
+<li class="pub-entry">
+  <div class="pub-title"><strong>Hierarchical Multi-Scale Molecular Conformer Generation with Structural Awareness</strong></div>
+  <div class="pub-authors">Jiapeng Hu, Weizhi Gao, <strong><u>Zhichao Hou</u></strong>, Xiaorui Liu</div>
+  <div class="pub-meta"><em>The International Conference on Learning Representations (ICLR), 2026</em></div>
+</li>
+<li class="pub-entry">
+  <div class="pub-title"><a href="https://arxiv.org/abs/2506.22463"><strong>Modulated Diffusion: Accelerating Generative Modeling with Modulated Quantization</strong></a></div>
+  <div class="pub-authors">Weizhi Gao, <strong><u>Zhichao Hou</u></strong>, Junqi Yin, Feiyi Wang, Linyu Peng, Xiaorui Liu</div>
+  <div class="pub-meta"><em>International Conference on Machine Learning (ICML), 2025</em><span class="pub-badges"><a href="https://arxiv.org/abs/2506.22463" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Paper-a9b76a?style=flat" alt="Paper"></a></span></div>
+</li>
+<li class="pub-entry">
+  <div class="pub-title"><a href="https://arxiv.org/abs/2412.16252"><strong>Post-hoc Interpretability Illumination for Scientific Interaction Discovery</strong></a></div>
+  <div class="pub-authors">Ling Zhang, <strong><u>Zhichao Hou</u></strong>, Tingxiang Ji, Yuanyuan Xu, Runze Li</div>
+  <div class="pub-meta"><em>ICLR Workshop XAI4Science, 2025</em><span class="pub-badges"><a href="https://arxiv.org/abs/2412.16252" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Paper-a9b76a?style=flat" alt="Paper"></a></span></div>
+</li>
+<li class="pub-entry">
+  <div class="pub-title"><a href="https://arxiv.org/abs/2411.03522"><strong>Exploring the Potentials and Challenges of Using Large Language Models for the Analysis of Transcriptional Regulation of Long Non-coding RNAs</strong></a></div>
+  <div class="pub-authors">Wei Wang, <strong><u>Zhichao Hou</u></strong>, Xiaorui Liu, Xinxia Peng</div>
+  <div class="pub-meta"><em>MABM, 2025</em><span class="pub-badges"><a href="https://arxiv.org/abs/2411.03522" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Paper-a9b76a?style=flat" alt="Paper"></a><a href="https://github.com/houzhichao/llm4bio" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Code-535a94?style=flat" alt="Code"></a></span></div>
+</li>
+<li class="pub-entry">
+  <div class="pub-title"><a href="https://arxiv.org/abs/2411.00899"><strong>Certified Robustness for Deep Equilibrium Models via Serialized Random Smoothing</strong></a></div>
+  <div class="pub-authors">Weizhi Gao, <strong><u>Zhichao Hou</u></strong>, Han Xu, Xiaorui Liu</div>
+  <div class="pub-meta"><em>Neural Information Processing Systems (NeurIPS), 2024</em><span class="pub-badges"><a href="https://arxiv.org/abs/2411.00899" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Paper-a9b76a?style=flat" alt="Paper"></a><a href="https://github.com/WeizhiGao/Serialized-Randomized-Smoothing" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Code-535a94?style=flat" alt="Code"></a></span></div>
+</li>
+<li class="pub-entry">
+  <div class="pub-title"><a href="https://arxiv.org/abs/2307.07956"><strong>Automated Polynomial Filter Learning for Graph Neural Networks</strong></a></div>
+  <div class="pub-authors">Wendi Yu, <strong><u>Zhichao Hou</u></strong>, Xiaorui Liu</div>
+  <div class="pub-meta"><em>IEEE International Conference on Big Data (IEEE BigData), 2024</em><span class="pub-badges"><a href="https://arxiv.org/abs/2307.07956" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Paper-a9b76a?style=flat" alt="Paper"></a><a href="https://github.com/houzhichao/autopoly" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Code-535a94?style=flat" alt="Code"></a></span></div>
+</li>
+<li class="pub-entry">
+  <div class="pub-title"><a href="https://academic.oup.com/bib/article/25/2/bbae093/7630481"><strong>Incorporating network diffusion and peak location information for better single-cell ATAC-seq data analysis</strong></a></div>
+  <div class="pub-authors">Jiating Yu, Jiacheng Leng, <strong><u>Zhichao Hou</u></strong>, Duanchen Sun, Ling-Yun Wu</div>
+  <div class="pub-meta"><em>Briefings in Bioinformatics, 2024</em><span class="pub-badges"><a href="https://academic.oup.com/bib/article/25/2/bbae093/7630481" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Paper-a9b76a?style=flat" alt="Paper"></a><a href="https://github.com/Wu-Lab/SCARP" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Code-535a94?style=flat" alt="Code"></a></span></div>
+</li>
+<li class="pub-entry">
+  <div class="pub-title"><a href="https://proceedings.neurips.cc/paper_files/paper/2023/hash/8e2a75e0c7b579a6cf176dc0858cde55-Abstract-Conference.html"><strong>Equivariant spatio-temporal attentive graph networks to simulate physical dynamics</strong></a></div>
+  <div class="pub-authors">Liming Wu*, <strong><u>Zhichao Hou</u></strong>*, Jirui Yuan, Yu Rong, Wenbing Huang</div>
+  <div class="pub-meta"><em>Neural Information Processing Systems (NeurIPS), 2023</em><span class="pub-badges"><a href="https://proceedings.neurips.cc/paper_files/paper/2023/hash/8e2a75e0c7b579a6cf176dc0858cde55-Abstract-Conference.html" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Paper-a9b76a?style=flat" alt="Paper"></a><a href="https://github.com/GLAD-RUC/ESTAG" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Code-535a94?style=flat" alt="Code"></a></span></div>
+</li>
+<li class="pub-entry">
+  <div class="pub-title"><a href="https://arxiv.org/abs/2409.15588"><strong>PathExpSurv: pathway expansion for explainable survival analysis and disease gene discovery</strong></a></div>
+  <div class="pub-authors"><strong><u>Zhichao Hou</u></strong>, Jiacheng Leng, Jiating Yu, Zheng Xia, Ling-Yun Wu</div>
+  <div class="pub-meta"><em>BMC Bioinformatics, 2023</em><span class="pub-badges"><a href="https://link.springer.com/article/10.1186/s12859-023-05535-2" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Paper-a9b76a?style=flat" alt="Paper"></a><a href="https://github.com/Wu-Lab/PathExpSurv" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Code-535a94?style=flat" alt="Code"></a></span></div>
+</li>
+<li class="pub-entry">
+  <div class="pub-title"><a href="https://arxiv.org/abs/2502.00834"><strong>Boosting Adversarial Robustness and Generalization with Structural Prior</strong></a></div>
+  <div class="pub-authors"><strong><u>Zhichao Hou</u></strong>, Weizhi Gao, Hamid Krim, Xiaorui Liu</div>
+  <div class="pub-meta"><em>Preprint, 2025</em><span class="pub-badges"><a href="https://arxiv.org/abs/2502.00834" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Paper-a9b76a?style=flat" alt="Paper"></a></span></div>
+</li>
+<li class="pub-entry">
+  <div class="pub-title"><a href="https://arxiv.org/abs/2408.16803"><strong>HLogformer: A Hierarchical Transformer for Representing Log Data</strong></a></div>
+  <div class="pub-authors"><strong><u>Zhichao Hou</u></strong>, Mina Ghashami, Mikhail Kuznetsov, MohamadAli Torkamani</div>
+  <div class="pub-meta"><em>Preprint, 2024</em><span class="pub-badges"><a href="https://arxiv.org/abs/2408.16803" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Paper-a9b76a?style=flat" alt="Paper"></a><a href="https://github.com/houzhichao/hlogformer" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Code-535a94?style=flat" alt="Code"></a></span></div>
+</li>
+<li class="pub-entry">
+  <div class="pub-title"><a href="https://arxiv.org/abs/2306.02002"><strong>Can Directed Graph Neural Networks be Adversarially Robust?</strong></a></div>
+  <div class="pub-authors"><strong><u>Zhichao Hou</u></strong>, Xitong Zhang, Wei Wang, Charu C Aggarwal, Xiaorui Liu</div>
+  <div class="pub-meta"><em>Preprint, 2023</em><span class="pub-badges"><a href="https://arxiv.org/abs/2306.02002" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Paper-a9b76a?style=flat" alt="Paper"></a><a href="https://github.com/chris-hzc/BBRW" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Code-535a94?style=flat" alt="Code"></a></span></div>
+</li>
+</ul>
 
 
 # 🎖 Honors and Awards
