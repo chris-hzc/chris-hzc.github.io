@@ -99,7 +99,7 @@ As a researcher with a background in both Mathematics and AI, I am deeply engage
   <div class="pub-meta"><em>Neural Information Processing Systems (NeurIPS), 2024</em><span class="pub-badges"><a href="https://arxiv.org/abs/2311.14934v2.pdf" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Paper-a9b76a?style=flat" alt="Paper"></a><a href="https://github.com/chris-hzc/RUNG" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Code-535a94?style=flat" alt="Code"></a><a href="images/rung_poster.png" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Poster-38663d?style=flat" alt="Poster"></a></span></div>
 </li>
 <li class="pub-entry">
-  <div class="pub-title"><strong>Hierarchical Multi-Scale Molecular Conformer Generation with Structural Awareness</strong></div>
+  <div class="pub-title"><a href="https://openreview.net/forum?id=uYlNjHC7ag"><strong>Hierarchical Multi-Scale Molecular Conformer Generation with Structural Awareness</strong></div>
   <div class="pub-authors">Jiapeng Hu, Weizhi Gao, <strong><u>Zhichao Hou</u></strong>, Xiaorui Liu</div>
   <div class="pub-meta"><em>The International Conference on Learning Representations (ICLR), 2026</em></div>
 </li>
