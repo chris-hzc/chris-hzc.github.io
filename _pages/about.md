@@ -33,11 +33,10 @@ I am a big fan of basketball and I idolize Chris Paul and Allen Iverson. Our tea
 -  AI for Science
 
 
-
-
 # 🔥 News
 <div class="news-container">
   <ul>
+    <li> 🎉 2026.06: Our paper <a href="https://arxiv.org/abs/2306.02002">"Harnessing Trust in Directed Graphs: Redefining Robustness of Graph Learning"</a> has been accepted for publication in ACM Transactions on Knowledge Discovery from Data (TKDD). </li>
     <li> 🎉 2026.01: Our papers on <a href="https://arxiv.org/abs/2510.26981"> Scalable Attack </a> and <a href=""> Molecular Generation </a> are accepted by ICLR 2026. </li>
     <li> 📖 2025.11: New preprint:  <a href="https://arxiv.org/abs/2510.26981">Fine-Grained Iterative Adversarial Attacks with Limited Computation Budget. </a></li>
     <li> 💻 2025.05: I join <a href="https://www.amazon.science/research-areas/automated-reasoning">  Automated Reasoning Group at AWS AI</a> as an Applied Scientist intern at NYC.</li>
@@ -77,6 +76,11 @@ As a researcher with a background in both Mathematics and AI, I am deeply engage
 
 
 <ul class="pub-list">
+<li class="pub-entry">
+  <div class="pub-title"><a href="https://arxiv.org/abs/2306.02002"><strong>Harnessing Trust in Directed Graphs: Redefining Robustness of Graph Learning</strong></a></div>
+  <div class="pub-authors"><strong><u>Zhichao Hou</u></strong>, Xitong Zhang, Wei Wang, Charu C Aggarwal, Xiaorui Liu</div>
+  <div class="pub-meta"><em>ACM Transactions on Knowledge Discovery from Data (TKDD), 2026</em><span class="pub-badges"><a href="https://arxiv.org/abs/2306.02002" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Paper-a9b76a?style=flat" alt="Paper"></a><a href="https://github.com/chris-hzc/BBRW" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Code-535a94?style=flat" alt="Code"></a></span></div>
+</li>
 <li class="pub-entry">
   <div class="pub-title"><a href="https://arxiv.org/abs/2510.26981"><strong>Fine-Grained Iterative Adversarial Attacks with Limited Computation Budget</strong></a></div>
   <div class="pub-authors"><strong><u>Zhichao Hou</u></strong>, Weizhi Gao, Xiaorui Liu</div>
@@ -153,11 +157,7 @@ As a researcher with a background in both Mathematics and AI, I am deeply engage
   <div class="pub-authors"><strong><u>Zhichao Hou</u></strong>, Mina Ghashami, Mikhail Kuznetsov, MohamadAli Torkamani</div>
   <div class="pub-meta"><em>Preprint, 2024</em><span class="pub-badges"><a href="https://arxiv.org/abs/2408.16803" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Paper-a9b76a?style=flat" alt="Paper"></a><a href="https://github.com/houzhichao/hlogformer" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Code-535a94?style=flat" alt="Code"></a></span></div>
 </li>
-<li class="pub-entry">
-  <div class="pub-title"><a href="https://arxiv.org/abs/2306.02002"><strong>Can Directed Graph Neural Networks be Adversarially Robust?</strong></a></div>
-  <div class="pub-authors"><strong><u>Zhichao Hou</u></strong>, Xitong Zhang, Wei Wang, Charu C Aggarwal, Xiaorui Liu</div>
-  <div class="pub-meta"><em>Preprint, 2023</em><span class="pub-badges"><a href="https://arxiv.org/abs/2306.02002" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Paper-a9b76a?style=flat" alt="Paper"></a><a href="https://github.com/chris-hzc/BBRW" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Code-535a94?style=flat" alt="Code"></a></span></div>
-</li>
+
 </ul>
 
 
