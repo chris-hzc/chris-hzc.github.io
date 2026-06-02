@@ -68,11 +68,11 @@ I am a big fan of basketball and I idolize Chris Paul and Allen Iverson. Our tea
 
 # 📝 Publications 
 
-As a researcher with a background in both Mathematics and AI, I am deeply engaged in developing robustness-informed neural networks using robust statistics and optimization theories. Feel free to explore my publications contributing to this topic in various domains:
+<!-- As a researcher with a background in both Mathematics and AI, I am deeply engaged in developing robustness-informed neural networks using robust statistics and optimization theories. Feel free to explore my publications contributing to this topic in various domains:
 
 - Graph: <a href="https://arxiv.org/abs/2311.14934v2">**[NeurIPS 2024]** Robust Graph Neural Networks via Unbiased Aggregation</a>
 - Language: <a href="https://arxiv.org/abs/2410.23182">**[NeurIPS 2024]** ProTransformer: Robustify Transformers via Plug-and-Play Paradigm</a>
-- Vision: <a href="https://arxiv.org/abs/2410.04577">**[ICLR 2025]** Robustness Reprogramming for Representation Learning</a>
+- Vision: <a href="https://arxiv.org/abs/2410.04577">**[ICLR 2025]** Robustness Reprogramming for Representation Learning</a> -->
 
 
 <ul class="pub-list">
