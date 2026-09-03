@@ -9,9 +9,9 @@ permalink: /
 <p class="home-hero-sub">{{ site.title }}, {{ site.institution }}</p>
 
 <div class="chip-container" markdown="0">
-<a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">Trustworthy AI</a>
-<a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">Efficient AI</a>
-<a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">AI for Science</a>
+<span class="chip">Trustworthy AI</span>
+<span class="chip">Efficient AI</span>
+<span class="chip">AI for Science</span>
 </div>
 
 
