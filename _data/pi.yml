@@ -1,0 +1,12 @@
+# Optional: detailed education and bio for the About page.
+# Basic info (name, photo, links) now lives in _config.yml.
+# Delete this file if you only need the basics.
+
+- education:
+    - "(2027) Ph.D. Computer Science, North Carolina State University, Raleigh, NC, USA"
+    - "(2023) M.S. Mathematics, Academy of Mathematics and Systems Science, Beijing, China"
+    - "(2020) B.S. Mathematics, Beijing Normal University, Beijing, China"
+  educationshort:
+    - "(2027) Ph.D. Computer Science, NCSU"
+    - "(2023) M.S. Mathematics, AMSS"
+    - "(2020) B.S. Mathematics, BNU"

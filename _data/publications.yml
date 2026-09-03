@@ -1,0 +1,165 @@
+# Publications shown on the /publications/ page.
+# tags drive the TOPIC filter pills; keep tag slugs kebab-case.
+
+- title: "Harnessing Trust in Directed Graphs: Redefining Robustness of Graph Learning"
+  authors: ["Zhichao Hou", "Xitong Zhang", "Wei Wang", "Charu C. Aggarwal", "Xiaorui Liu"]
+  venue: "ACM Transactions on Knowledge Discovery from Data (TKDD)"
+  venue_short: "TKDD"
+  year: 2026
+  tags: ["trustworthy-ai", "graph-learning"]
+  links:
+    - { label: "Paper", url: "https://arxiv.org/abs/2306.02002" }
+    - { label: "GitHub", url: "https://github.com/chris-hzc/BBRW" }
+
+- title: "Fine-Grained Iterative Adversarial Attacks with Limited Computation Budget"
+  authors: ["Zhichao Hou", "Weizhi Gao", "Xiaorui Liu"]
+  venue: "International Conference on Learning Representations (ICLR)"
+  venue_short: "ICLR"
+  year: 2026
+  tags: ["trustworthy-ai", "adversarial-robustness", "efficient-ai"]
+  links:
+    - { label: "Paper", url: "https://arxiv.org/abs/2510.26981" }
+
+- title: "Hierarchical Multi-Scale Molecular Conformer Generation with Structural Awareness"
+  authors: ["Jiapeng Hu", "Weizhi Gao", "Zhichao Hou", "Xiaorui Liu"]
+  venue: "International Conference on Learning Representations (ICLR)"
+  venue_short: "ICLR"
+  year: 2026
+  tags: ["ai-for-science", "generative-models"]
+  links:
+    - { label: "OpenReview", url: "https://openreview.net/forum?id=uYlNjHC7ag" }
+
+- title: "Robustness Reprogramming for Representation Learning"
+  authors: ["Zhichao Hou", "MohamadAli Torkamani", "Hamid Krim", "Xiaorui Liu"]
+  venue: "International Conference on Learning Representations (ICLR)"
+  venue_short: "ICLR"
+  year: 2025
+  award: "SPOTLIGHT"
+  stat: "Top 1.4% of 11,670 submissions"
+  tags: ["trustworthy-ai", "adversarial-robustness"]
+  links:
+    - { label: "Paper", url: "https://arxiv.org/abs/2410.04577" }
+    - { label: "GitHub", url: "https://github.com/chris-hzc/NRPM" }
+    - { label: "Poster", url: "images/robustness_reprogramming_poster.png" }
+
+- title: "Modulated Diffusion: Accelerating Generative Modeling with Modulated Quantization"
+  authors: ["Weizhi Gao", "Zhichao Hou", "Junqi Yin", "Feiyi Wang", "Linyu Peng", "Xiaorui Liu"]
+  venue: "International Conference on Machine Learning (ICML)"
+  venue_short: "ICML"
+  year: 2025
+  tags: ["efficient-ai", "generative-models"]
+  links:
+    - { label: "Paper", url: "https://arxiv.org/abs/2506.22463" }
+
+- title: "Post-hoc Interpretability Illumination for Scientific Interaction Discovery"
+  authors: ["Ling Zhang", "Zhichao Hou", "Tingxiang Ji", "Yuanyuan Xu", "Runze Li"]
+  venue: "ICLR Workshop XAI4Science"
+  venue_short: "ICLR Workshop"
+  year: 2025
+  tags: ["ai-for-science"]
+  links:
+    - { label: "Paper", url: "https://arxiv.org/abs/2412.16252" }
+
+- title: "Exploring the Potentials and Challenges of Using Large Language Models for the Analysis of Transcriptional Regulation of Long Non-coding RNAs"
+  authors: ["Wei Wang", "Zhichao Hou", "Xiaorui Liu", "Xinxia Peng"]
+  venue: "MABM"
+  venue_short: "MABM"
+  year: 2025
+  tags: ["ai-for-science", "llm", "bioinformatics"]
+  links:
+    - { label: "Paper", url: "https://arxiv.org/abs/2411.03522" }
+    - { label: "GitHub", url: "https://github.com/houzhichao/llm4bio" }
+
+- title: "Boosting Adversarial Robustness and Generalization with Structural Prior"
+  authors: ["Zhichao Hou", "Weizhi Gao", "Hamid Krim", "Xiaorui Liu"]
+  venue: "Preprint"
+  venue_short: "Preprint"
+  year: 2025
+  preprint: true
+  tags: ["trustworthy-ai", "adversarial-robustness"]
+  links:
+    - { label: "Paper", url: "https://arxiv.org/abs/2502.00834" }
+
+- title: "ProTransformer: Robustify Transformers via Plug-and-Play Paradigm"
+  authors: ["Zhichao Hou", "Weizhi Gao", "Yuchen Shen", "Feiyi Wang", "Xiaorui Liu"]
+  venue: "Neural Information Processing Systems (NeurIPS)"
+  venue_short: "NeurIPS"
+  year: 2024
+  tags: ["trustworthy-ai", "transformers", "adversarial-robustness"]
+  links:
+    - { label: "Paper", url: "https://arxiv.org/abs/2410.23182" }
+    - { label: "GitHub", url: "https://github.com/chris-hzc/ProTransformer" }
+    - { label: "Poster", url: "images/protransformer_poster.png" }
+
+- title: "Robust Graph Neural Networks via Unbiased Aggregation"
+  authors: ["Zhichao Hou", "Ruiqi Feng", "Tyler Derr", "Xiaorui Liu"]
+  venue: "Neural Information Processing Systems (NeurIPS)"
+  venue_short: "NeurIPS"
+  year: 2024
+  tags: ["trustworthy-ai", "graph-learning"]
+  links:
+    - { label: "Paper", url: "https://arxiv.org/abs/2311.14934v2" }
+    - { label: "GitHub", url: "https://github.com/chris-hzc/RUNG" }
+    - { label: "Poster", url: "images/rung_poster.png" }
+
+- title: "Certified Robustness for Deep Equilibrium Models via Serialized Random Smoothing"
+  authors: ["Weizhi Gao", "Zhichao Hou", "Han Xu", "Xiaorui Liu"]
+  venue: "Neural Information Processing Systems (NeurIPS)"
+  venue_short: "NeurIPS"
+  year: 2024
+  tags: ["trustworthy-ai", "adversarial-robustness", "efficient-ai"]
+  links:
+    - { label: "Paper", url: "https://arxiv.org/abs/2411.00899" }
+    - { label: "GitHub", url: "https://github.com/WeizhiGao/Serialized-Randomized-Smoothing" }
+
+- title: "Automated Polynomial Filter Learning for Graph Neural Networks"
+  authors: ["Wendi Yu", "Zhichao Hou", "Xiaorui Liu"]
+  venue: "IEEE International Conference on Big Data (IEEE BigData)"
+  venue_short: "IEEE BigData"
+  year: 2024
+  tags: ["efficient-ai", "graph-learning"]
+  links:
+    - { label: "Paper", url: "https://arxiv.org/abs/2307.07956" }
+    - { label: "GitHub", url: "https://github.com/houzhichao/autopoly" }
+
+- title: "Incorporating Network Diffusion and Peak Location Information for Better Single-Cell ATAC-seq Data Analysis"
+  authors: ["Jiating Yu", "Jiacheng Leng", "Zhichao Hou", "Duanchen Sun", "Ling-Yun Wu"]
+  venue: "Briefings in Bioinformatics"
+  venue_short: "Briefings in Bioinformatics"
+  year: 2024
+  tags: ["ai-for-science", "bioinformatics"]
+  links:
+    - { label: "Paper", url: "https://academic.oup.com/bib/article/25/2/bbae093/7630481" }
+    - { label: "GitHub", url: "https://github.com/Wu-Lab/SCARP" }
+
+- title: "HLogformer: A Hierarchical Transformer for Representing Log Data"
+  authors: ["Zhichao Hou", "Mina Ghashami", "Mikhail Kuznetsov", "MohamadAli Torkamani"]
+  venue: "Preprint"
+  venue_short: "Preprint"
+  year: 2024
+  preprint: true
+  tags: ["efficient-ai", "transformers"]
+  links:
+    - { label: "Paper", url: "https://arxiv.org/abs/2408.16803" }
+    - { label: "GitHub", url: "https://github.com/houzhichao/hlogformer" }
+
+- title: "Equivariant Spatio-Temporal Attentive Graph Networks to Simulate Physical Dynamics"
+  authors: ["Liming Wu*", "Zhichao Hou*", "Jirui Yuan", "Yu Rong", "Wenbing Huang"]
+  venue: "Neural Information Processing Systems (NeurIPS)"
+  venue_short: "NeurIPS"
+  year: 2023
+  note: "* denotes equal contribution"
+  tags: ["ai-for-science", "graph-learning"]
+  links:
+    - { label: "Paper", url: "https://proceedings.neurips.cc/paper_files/paper/2023/hash/8e2a75e0c7b579a6cf176dc0858cde55-Abstract-Conference.html" }
+    - { label: "GitHub", url: "https://github.com/GLAD-RUC/ESTAG" }
+
+- title: "PathExpSurv: Pathway Expansion for Explainable Survival Analysis and Disease Gene Discovery"
+  authors: ["Zhichao Hou", "Jiacheng Leng", "Jiating Yu", "Zheng Xia", "Ling-Yun Wu"]
+  venue: "BMC Bioinformatics"
+  venue_short: "BMC Bioinformatics"
+  year: 2023
+  tags: ["ai-for-science", "bioinformatics"]
+  links:
+    - { label: "Paper", url: "https://link.springer.com/article/10.1186/s12859-023-05535-2" }
+    - { label: "GitHub", url: "https://github.com/Wu-Lab/PathExpSurv" }

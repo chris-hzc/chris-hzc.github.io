@@ -1,0 +1,55 @@
+# Internship history shown on the /internship/ timeline page.
+# Ordered newest first.
+
+- title: "Applied Scientist Intern"
+  company: "Amazon Web Services"
+  team: "Perfect Order Experience (POE) AI team"
+  location: "Seattle, WA"
+  start: "May 2026"
+  end: "Aug 2026"
+  mentors:
+    - { name: "Rui Song", url: "https://song-ray.github.io/" }
+    - { name: "Lingdao Shao", url: "https://scholar.google.com/citations?user=jyNTXzsAAAAJ&hl=en" }
+    - { name: "Xueyu Mao", url: "https://xueyumao.github.io/" }
+    - { name: "Yang Liu", url: "https://www.linkedin.com/in/yang-liu-31b0abba/" }
+    - { name: "Peijie Qiu", url: "https://scholar.google.com/citations?user=7HLmlHMAAAAJ&hl" }
+
+
+- title: "Applied Scientist Intern"
+  company: "Amazon Web Services"
+  team: "Automated Reasoning at AWS AI"
+  location: "New York, NY"
+  start: "May 2025"
+  end: "Aug 2025"
+  mentors:
+    - { name: "Ferhat Erata", url: "https://ferhat.ai/" }
+    - { name: "MohamadAli Torkamani", url: "https://www.linkedin.com/in/ali-torkamani-8474587/" }
+
+- title: "Applied Scientist Intern"
+  company: "Amazon Web Services"
+  team: "Security Analytics and AI Research (SAAR)"
+  location: "New York, NY"
+  start: "May 2024"
+  end: "Aug 2024"
+  mentors:
+    - { name: "MohamadAli Torkamani", url: "https://www.linkedin.com/in/ali-torkamani-8474587/" }
+
+- title: "Research Intern"
+  company: "Baidu, Inc."
+  team: "Big Search"
+  location: "Beijing, China"
+  start: "May 2023"
+  end: "Aug 2023"
+  mentors:
+    - { name: "Xiaochi Wei", url: "https://scholar.google.com/citations?user=2ZkUaYcAAAAJ&hl=zh-CN" }
+    - { name: "Dawei Yin", url: "https://www.yindawei.com/" }
+
+- title: "Research Intern"
+  company: "Institute for AI Industry Research, Tsinghua University"
+  team: ""
+  location: "Beijing, China"
+  start: "Mar 2022"
+  end: "Sep 2022"
+  mentors:
+    - { name: "Prof. Wenbing Huang", url: "https://scholar.google.com/citations?user=0yNkmO4AAAAJ&hl=zh-CN" }
+    - { name: "Dr. Yu Rong", url: "https://royrong.me/" }

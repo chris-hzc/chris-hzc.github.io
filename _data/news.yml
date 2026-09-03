@@ -1,0 +1,96 @@
+# News items shown on the home page sidebar.
+# The 3 most recent are shown; all appear on /allnews.
+# Each entry needs: date, headline
+# pubdate: ISO date (YYYY-MM-DD) used only by feed.xml -- "date" itself isn't parseable as a real date.
+
+
+
+
+- date: June, 2026
+  pubdate: 2026-06-11
+  headline: 'Our paper on <a href="https://trustworthyshopping.aboutamazon.com/">Robustness in Directed Graphs</a> is accepted by ACM Transactions on Knowledge Discovery from Data (TKDD).'
+
+
+- date: May, 2026
+  pubdate: 2026-05-15
+  headline: 'The Neurosymbolic LLM Reasoning proposal I led was honored with an <a href="https://www.linkedin.com/feed/update/urn:li:activity:7465507781932982272/">Amazon Research Award</a>.'
+
+
+
+- date: May, 2026
+  pubdate: 2026-05-11
+  headline: 'I join <a href="https://trustworthyshopping.aboutamazon.com/">Trustworthy Shopping AI Team at Amazon</a> as an Applied Scientist intern at Seattle.'
+
+- date: January, 2026
+  pubdate: 2026-01-01
+  headline: 'Our papers on <a href="https://arxiv.org/abs/2510.26981">Scalable Attack</a> and <a href="">Molecular Generation</a> are accepted by ICLR 2026. See you in Rio de Janeiro!'
+
+- date: May, 2025
+  pubdate: 2025-05-01
+  headline: 'I join <a href="https://www.amazon.science/research-areas/automated-reasoning">Automated Reasoning Group at AWS AI</a> as an Applied Scientist intern at New York.'
+
+- date: May, 2025
+  pubdate: 2025-05-02
+  headline: 'Our paper <a href="https://arxiv.org/abs/2506.22463">"Modulated Diffusion"</a> is accepted by ICML 2025. See you in Vancouver!'
+
+- date: March, 2025
+  pubdate: 2025-03-01
+  headline: 'Our paper on <a href="https://arxiv.org/abs/2412.16252">"Scientific Discovery in Bioinformatics"</a> is accepted by ICLR 2025 Workshop XAI4Science.'
+
+- date: February, 2025
+  pubdate: 2025-02-01
+  headline: 'Our paper on <a href="https://arxiv.org/abs/2410.04577">Robustness Reprogramming</a> is selected as a Spotlight paper (1.4% &asymp; 162/11670) by ICLR 2025.'
+
+- date: January, 2025
+  pubdate: 2025-01-01
+  headline: 'Our paper on <a href="https://arxiv.org/abs/2410.04577">Robustness Reprogramming</a> is accepted by ICLR 2025. See you in Singapore!'
+
+- date: October, 2024
+  pubdate: 2024-10-02
+  headline: 'I give a tutorial at <a href="https://dsaa2024.dsaa.co/program-at-a-glance.html">DSAA</a> about <a href="https://ieeexplore.ieee.org/abstract/document/10722771">"Adversarial Robustness in Graph Neural Networks"</a>.'
+
+
+- date: September, 2024
+  pubdate: 2024-09-01
+  headline: 'Our papers on <a href="https://arxiv.org/abs/2410.23182">Robust Transformers</a>, <a href="https://arxiv.org/abs/2311.14934v2">Robust GNNs</a>, and <a href="https://arxiv.org/abs/2411.00899">Efficient Certifiable Robustness</a> are accepted by NeurIPS 2024. See you in Vancouver!'
+
+
+- date: July, 2024
+  pubdate: 2024-07-01
+  headline: 'I receive the National AI Research Resource Pilot Award for our research on exploring and enhancing the robustness of LLMs and foundation models.'
+
+- date: May, 2024
+  pubdate: 2024-05-01
+  headline: 'I join <a href="https://aws.amazon.com/guardduty/">Amazon AWS GuardDuty</a> as an Applied Scientist intern at New York.'
+
+- date: May, 2024
+  pubdate: 2024-05-02
+  headline: 'Our tutorial on "Adversarial Robustness in Graph Neural Networks" is accepted by DSAA 2024. See you in San Diego!'
+
+- date: May, 2024
+  pubdate: 2024-05-03
+  headline: 'I receive the Summer Graduate Merit Awards.'
+
+- date: March, 2024
+  pubdate: 2024-03-01
+  headline: 'Our paper on <a href="https://arxiv.org/abs/2410.23182">Robust Transformers</a> is accepted by ICLR 2024 Workshop on Reliable and Responsible Foundation Models.'
+
+- date: February, 2024
+  pubdate: 2024-02-01
+  headline: 'Our paper on <a href="https://academic.oup.com/bib/article/25/2/bbae093/7630481">Single-Cell ATAC-seq Analysis</a> is accepted by Briefings in Bioinformatics.'
+
+- date: September, 2023
+  pubdate: 2023-09-01
+  headline: 'Our paper on <a href="https://arxiv.org/abs/2405.12868">Physical Dynamics</a> is accepted by NeurIPS 2023. See you in New Orleans!'
+
+- date: September, 2023
+  pubdate: 2023-09-02
+  headline: 'One paper on <a href="https://pubmed.ncbi.nlm.nih.gov/37968615/">Explainable Survival Analysis</a> is accepted by BMC Bioinformatics.'
+
+- date: June, 2023
+  pubdate: 2023-06-01
+  headline: 'I join Big Search team in <a href="https://ir.baidu.com/">Baidu, Inc.</a> as a research intern at Beijing.'
+
+- date: March, 2022
+  pubdate: 2022-03-01
+  headline: 'I join <a href="https://air.tsinghua.edu.cn/">Institute for AI Industry Research, Tsinghua University</a> as a research intern.'

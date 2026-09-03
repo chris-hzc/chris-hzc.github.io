@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1396" height="792" viewBox="22 14 1396 792" role="img" aria-labelledby="title desc">
+  <title id="title">Research vision centered on trustworthy AI</title>
+  <desc id="desc">Trustworthy AI is the central research focus, grounded in mathematical foundations, connected with efficient AI, and translated to biology, networks and security, quantum systems, and industrial AI.</desc>
+  <defs>
+    <clipPath id="cardClip"><rect x="32" y="24" width="1376" height="772" rx="28"/></clipPath>
+    <radialGradient id="coreGlow" cx="50%" cy="46%" r="54%">
+      <stop offset="0" stop-color="#5B6FF2" stop-opacity="0.16"/><stop offset="0.58" stop-color="#7D8AF4" stop-opacity="0.07"/><stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="mainLine" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#C9D0DE" stop-opacity="0"/><stop offset="0.48" stop-color="#6675E8"/><stop offset="1" stop-color="#C9D0DE" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <g clip-path="url(#cardClip)">
+    <rect x="32" y="24" width="1376" height="772" fill="#F0ECE4"/>
+  </g>
+  <rect x="32" y="24" width="1376" height="772" rx="28" fill="none" stroke="#DDD9D1" stroke-width="1.5"/>
+  <g transform="translate(-86.4,-49.2) scale(1.12)" font-family="Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">
+    <text x="720" y="72" text-anchor="middle" font-size="15" font-weight="600" letter-spacing="3.5" fill="#929BAD">MATHEMATICAL FOUNDATIONS</text>
+    <text x="720" y="112" text-anchor="middle" font-size="20" fill="#667085">Statistics  ·  Probability  ·  Optimization</text>
+    <path d="M330 146 C510 127 930 127 1110 146" fill="none" stroke="url(#mainLine)" stroke-width="2"/>
+    <path d="M720 146 C720 205 700 234 662 267" fill="none" stroke="#AAB3C4" stroke-width="1.6"/>
+    <ellipse cx="625" cy="378" rx="410" ry="245" fill="url(#coreGlow)"/>
+    <circle cx="625" cy="378" r="182" fill="#5B6FF2" opacity="0.035"/>
+    <circle cx="625" cy="378" r="140" fill="none" stroke="#6575E8" stroke-width="1.5" stroke-opacity="0.32"/>
+    <circle cx="625" cy="378" r="116" fill="none" stroke="#6575E8" stroke-width="1" stroke-opacity="0.16"/>
+    <text x="625" y="350" text-anchor="middle" font-size="23" font-weight="500" letter-spacing="1.4" fill="#5E6B85">MY RESEARCH FOCUS</text>
+    <text x="625" y="413" text-anchor="middle" font-size="55" font-weight="650" fill="#172033">Trustworthy AI</text>
+    <text x="625" y="453" text-anchor="middle" font-size="20" fill="#667085">robust · reliable · safe</text>
+    <path d="M760 335 C848 292 916 288 1005 318" fill="none" stroke="#8D98AA" stroke-width="1.7"/>
+    <circle cx="1056" cy="344" r="7" fill="#2E9A7B"/>
+    <text x="1080" y="337" font-size="17" font-weight="500" letter-spacing="1.5" fill="#758094">CONNECTED DIRECTION</text>
+    <text x="1080" y="378" font-size="34" font-weight="600" fill="#172033">Efficient AI</text>
+    <text x="1080" y="411" font-size="18" fill="#667085">scalable · resource-aware</text>
+    <path d="M625 518 C625 585 625 595 625 622" fill="none" stroke="#AAB3C4" stroke-width="1.6"/>
+    <text x="625" y="658" text-anchor="middle" font-size="15" font-weight="600" letter-spacing="3.5" fill="#929BAD">AI FOR SCIENCE &amp; INDUSTRY</text>
+    <path d="M180 690 H1260" fill="none" stroke="#D8DDE7" stroke-width="1.5"/>
+    <g fill="#172033" font-size="22" font-weight="550" text-anchor="middle">
+      <circle cx="250" cy="690" r="6" fill="#6575E8"/><text x="250" y="738">LLM Reasoning</text>
+      <circle cx="560" cy="690" r="6" fill="#6575E8"/><text x="560" y="738">Healthcare</text>
+      <circle cx="880" cy="690" r="6" fill="#6575E8"/><text x="880" y="738">Security</text>
+      <circle cx="1190" cy="690" r="6" fill="#6575E8"/><text x="1190" y="738">Networking</text>
+    </g>
+  </g>
+</svg>
