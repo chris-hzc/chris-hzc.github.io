@@ -3,7 +3,7 @@ _site/
 .jekyll-metadata
 .sass-cache/
 .bundle/
-vendor/
+/vendor/
 node_modules/
 .DS_Store
 *.sb-*
