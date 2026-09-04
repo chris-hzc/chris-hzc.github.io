@@ -4,13 +4,25 @@
 
 .home-grid {
   display: grid;
-  grid-template-columns: 1fr 340px;
+  grid-template-columns: 340px 1fr;
   gap: var(--space-12);
   align-items: start;
 
   @media (max-width: 768px) {
     grid-template-columns: 1fr;
     gap: var(--space-8);
+  }
+}
+
+.home-sidebar {
+  position: sticky;
+  top: calc(74px + var(--space-6));
+  max-height: calc(100vh - 74px - var(--space-6) * 2);
+  overflow-y: auto;
+
+  @media (max-width: 768px) {
+    position: static;
+    max-height: none;
   }
 }
 
@@ -115,5 +127,19 @@
     color: var(--text-secondary);
     font-size: 0.875rem;
     line-height: 1.5;
+  }
+}
+
+.news-collapse {
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height var(--transition-slow);
+
+  &.show {
+    max-height: 4000px;
+  }
+
+  .news-timeline {
+    margin-top: 0;
   }
 }

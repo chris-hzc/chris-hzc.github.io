@@ -14,6 +14,7 @@ permalink: /publications/
   <div class="pub-filter-row">
     <span class="pub-filter-label">ALL</span>
     <button class="pub-pill pub-pill-everything active" data-filter="all">Everything</button>
+    <button class="pub-pill" data-filter="first-author">First Author</button>
   </div>
   <div class="pub-filter-row">
     <span class="pub-filter-label">YEAR</span>
@@ -42,9 +43,9 @@ permalink: /publications/
 <h3 class="pub-year-heading" data-year-heading="{{ group.name }}">{{ group.name }}</h3>
 <div class="pub-year-group" data-year-group="{{ group.name }}">
 {% for pub in group.items %}
-<div class="pub-card" data-year="{{ pub.year }}" data-tags="{{ pub.tags | join: ',' }}">
+<div class="pub-card" data-year="{{ pub.year }}" data-tags="{{ pub.tags | join: ',' }}" data-first-author="{{ pub.first_author | default: false }}">
   <div class="pub-badges">
-    <span class="badge badge-venue">{{ pub.venue_short }} {{ pub.year }}</span>
+    <span class="badge badge-venue">{{ pub.venue_short }}{% unless pub.preprint %} {{ pub.year }}{% endunless %}</span>
     {% if pub.award %}<span class="badge badge-award">&#127942; {{ pub.award }}</span>{% endif %}
     {% for link in pub.links %}<a href="{{ link.url }}" target="_blank" rel="noopener noreferrer" class="badge badge-link">{{ link.label }} &#8599;</a>{% endfor %}
   </div>
@@ -68,6 +69,7 @@ permalink: /publications/
   if (!filtersEl) return;
 
   var everythingBtn = filtersEl.querySelector('[data-filter="all"]');
+  var firstAuthorBtn = filtersEl.querySelector('[data-filter="first-author"]');
   var yearBtns = filtersEl.querySelectorAll('[data-filter="year"]');
   var topicBtns = filtersEl.querySelectorAll('[data-filter="topic"]');
   var cards = document.querySelectorAll('.pub-card');
@@ -76,9 +78,10 @@ permalink: /publications/
 
   var activeYear = null;
   var activeTopics = new Set();
+  var firstAuthorOnly = false;
 
   function updateEverythingState() {
-    var isEmpty = !activeYear && activeTopics.size === 0;
+    var isEmpty = !activeYear && activeTopics.size === 0 && !firstAuthorOnly;
     everythingBtn.classList.toggle('active', isEmpty);
   }
 
@@ -89,7 +92,8 @@ permalink: /publications/
       var topicMatch = activeTopics.size === 0 || Array.from(activeTopics).some(function (t) {
         return tags.indexOf(t) !== -1;
       });
-      card.style.display = (yearMatch && topicMatch) ? '' : 'none';
+      var firstAuthorMatch = !firstAuthorOnly || card.getAttribute('data-first-author') === 'true';
+      card.style.display = (yearMatch && topicMatch && firstAuthorMatch) ? '' : 'none';
     });
 
     yearGroups.forEach(function (group) {
@@ -111,8 +115,16 @@ permalink: /publications/
   everythingBtn.addEventListener('click', function () {
     activeYear = null;
     activeTopics.clear();
+    firstAuthorOnly = false;
     yearBtns.forEach(function (b) { b.classList.remove('active'); });
     topicBtns.forEach(function (b) { b.classList.remove('active'); });
+    firstAuthorBtn.classList.remove('active');
+    applyFilters();
+  });
+
+  firstAuthorBtn.addEventListener('click', function () {
+    firstAuthorOnly = !firstAuthorOnly;
+    firstAuthorBtn.classList.toggle('active', firstAuthorOnly);
     applyFilters();
   });
 

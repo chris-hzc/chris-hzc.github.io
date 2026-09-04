@@ -3,11 +3,11 @@ layout: default
 ---
 
 <div class="home-grid">
-  <div class="home-content">
-    {{ content }}
+  <div class="home-sidebar">
+    {% include sidebar.html %}
   </div>
 
-  <div>
-    {% include sidebar.html %}
+  <div class="home-content">
+    {{ content }}
   </div>
 </div>

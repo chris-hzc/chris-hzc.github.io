@@ -70,7 +70,7 @@
 }
 
 .pub-card {
-  padding: var(--space-5) 0;
+  padding: var(--space-1) 0 var(--space-4);
   border-bottom: 1px solid var(--border-color);
 
   &:last-child { border-bottom: none; }

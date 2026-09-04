@@ -1,5 +1,5 @@
 <div class="profile-card">
-<a href="{{ site.url }}{{ site.baseurl }}/about">
+<a href="{{ site.url }}{{ site.baseurl }}/#about">
 <img src="{{ site.url }}{{ site.baseurl }}/images/{{ site.photo }}" class="profile-photo" alt="{{ site.name }}" loading="lazy">
 </a>
 <h4 class="profile-name">{{ site.name }}</h4>
@@ -22,17 +22,4 @@
 {% endfor %}
 </ul>
 {% endif %}
-</div>
-
-<div class="section-card" style="margin-top: var(--space-6);">
-<h4 style="margin-top: 0;">News</h4>
-<div class="news-timeline">
-{% for article in site.data.news limit:3 %}
-<div class="news-item">
-<div class="news-date">{{ article.date }}</div>
-<div class="news-headline">{{ article.headline }}</div>
-</div>
-{% endfor %}
-</div>
-<p style="margin-top: var(--space-4);"><a href="{{ site.url }}{{ site.baseurl }}/news">See all news &rarr;</a></p>
 </div>

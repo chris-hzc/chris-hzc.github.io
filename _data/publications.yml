@@ -1,8 +1,33 @@
 # Publications shown on the /publications/ page.
 # tags drive the TOPIC filter pills; keep tag slugs kebab-case.
 
+- title: "Stratified Consistency Distillation for Natural Language Formalization"
+  authors: ["Zhichao Hou", "Ferhat Erata", "Joe Lilien", "MohamadAli Torkamani"]
+  first_author: true
+  venue: "Preprint"
+  venue_short: "Preprint"
+  year: 2026
+  preprint: true
+  tags: ["llm", "efficient-ai"]
+  links:
+    - { label: "Paper", url: "https://arxiv.org/abs/2608.30258" }
+
+- title: "Towards One-for-All Robustness Across a Continuum of Threat Levels"
+  authors: ["Zhichao Hou", "Xiaorui Liu"]
+  first_author: true
+  featured: true
+  feature_rank: 7
+  venue: "Preprint"
+  venue_short: "Preprint"
+  year: 2026
+  preprint: true
+  tags: ["trustworthy-ai", "adversarial-robustness", "efficient-ai"]
+  links:
+    - { label: "Paper", url: "https://arxiv.org/abs/2609.02440" }
+
 - title: "Harnessing Trust in Directed Graphs: Redefining Robustness of Graph Learning"
   authors: ["Zhichao Hou", "Xitong Zhang", "Wei Wang", "Charu C. Aggarwal", "Xiaorui Liu"]
+  first_author: true
   venue: "ACM Transactions on Knowledge Discovery from Data (TKDD)"
   venue_short: "TKDD"
   year: 2026
@@ -13,6 +38,9 @@
 
 - title: "Fine-Grained Iterative Adversarial Attacks with Limited Computation Budget"
   authors: ["Zhichao Hou", "Weizhi Gao", "Xiaorui Liu"]
+  first_author: true
+  featured: true
+  feature_rank: 2
   venue: "International Conference on Learning Representations (ICLR)"
   venue_short: "ICLR"
   year: 2026
@@ -31,11 +59,14 @@
 
 - title: "Robustness Reprogramming for Representation Learning"
   authors: ["Zhichao Hou", "MohamadAli Torkamani", "Hamid Krim", "Xiaorui Liu"]
+  first_author: true
+  featured: true
+  feature_rank: 1
   venue: "International Conference on Learning Representations (ICLR)"
   venue_short: "ICLR"
   year: 2025
   award: "SPOTLIGHT"
-  stat: "Top 1.4% of 11,670 submissions"
+  stat: "<strong style=\"color: #8b1a1a;\">Top 1.4% of 11,670 submissions</strong>"
   tags: ["trustworthy-ai", "adversarial-robustness"]
   links:
     - { label: "Paper", url: "https://arxiv.org/abs/2410.04577" }
@@ -72,6 +103,9 @@
 
 - title: "Boosting Adversarial Robustness and Generalization with Structural Prior"
   authors: ["Zhichao Hou", "Weizhi Gao", "Hamid Krim", "Xiaorui Liu"]
+  first_author: true
+  featured: true
+  feature_rank: 6
   venue: "Preprint"
   venue_short: "Preprint"
   year: 2025
@@ -82,6 +116,9 @@
 
 - title: "ProTransformer: Robustify Transformers via Plug-and-Play Paradigm"
   authors: ["Zhichao Hou", "Weizhi Gao", "Yuchen Shen", "Feiyi Wang", "Xiaorui Liu"]
+  first_author: true
+  featured: true
+  feature_rank: 3
   venue: "Neural Information Processing Systems (NeurIPS)"
   venue_short: "NeurIPS"
   year: 2024
@@ -93,6 +130,9 @@
 
 - title: "Robust Graph Neural Networks via Unbiased Aggregation"
   authors: ["Zhichao Hou", "Ruiqi Feng", "Tyler Derr", "Xiaorui Liu"]
+  first_author: true
+  featured: true
+  feature_rank: 4
   venue: "Neural Information Processing Systems (NeurIPS)"
   venue_short: "NeurIPS"
   year: 2024
@@ -134,6 +174,7 @@
 
 - title: "HLogformer: A Hierarchical Transformer for Representing Log Data"
   authors: ["Zhichao Hou", "Mina Ghashami", "Mikhail Kuznetsov", "MohamadAli Torkamani"]
+  first_author: true
   venue: "Preprint"
   venue_short: "Preprint"
   year: 2024
@@ -145,6 +186,9 @@
 
 - title: "Equivariant Spatio-Temporal Attentive Graph Networks to Simulate Physical Dynamics"
   authors: ["Liming Wu*", "Zhichao Hou*", "Jirui Yuan", "Yu Rong", "Wenbing Huang"]
+  first_author: true
+  featured: true
+  feature_rank: 5
   venue: "Neural Information Processing Systems (NeurIPS)"
   venue_short: "NeurIPS"
   year: 2023
@@ -156,6 +200,7 @@
 
 - title: "PathExpSurv: Pathway Expansion for Explainable Survival Analysis and Disease Gene Discovery"
   authors: ["Zhichao Hou", "Jiacheng Leng", "Jiating Yu", "Zheng Xia", "Ling-Yun Wu"]
+  first_author: true
   venue: "BMC Bioinformatics"
   venue_short: "BMC Bioinformatics"
   year: 2023

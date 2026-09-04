@@ -3,7 +3,7 @@
 
 - title: "Applied Scientist Intern"
   company: "Amazon Web Services"
-  team: "Perfect Order Experience (POE) AI team"
+  team: "Trustworthy Shopping AI Team"
   location: "Seattle, WA"
   start: "May 2026"
   end: "Aug 2026"
@@ -36,7 +36,7 @@
 
 - title: "Research Intern"
   company: "Baidu, Inc."
-  team: "Big Search"
+  team: "Big Search Group"
   location: "Beijing, China"
   start: "May 2023"
   end: "Aug 2023"
@@ -45,11 +45,11 @@
     - { name: "Dawei Yin", url: "https://www.yindawei.com/" }
 
 - title: "Research Intern"
-  company: "Institute for AI Industry Research, Tsinghua University"
-  team: ""
+  company: "Tsinghua University"
+  team: "Institute for AI Industry Research"
   location: "Beijing, China"
   start: "Mar 2022"
   end: "Sep 2022"
   mentors:
-    - { name: "Prof. Wenbing Huang", url: "https://scholar.google.com/citations?user=0yNkmO4AAAAJ&hl=zh-CN" }
-    - { name: "Dr. Yu Rong", url: "https://royrong.me/" }
+    - { name: "Wenbing Huang", url: "https://scholar.google.com/citations?user=0yNkmO4AAAAJ&hl=zh-CN" }
+    - { name: "Yu Rong", url: "https://royrong.me/" }

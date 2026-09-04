@@ -11,11 +11,11 @@
     <div class="collapse navbar-collapse" id="navbarNav">
       <ul class="navbar-nav me-auto">
         <li class="nav-item">
-          <a class="nav-link{% if page.url == '/' %} active{% endif %}" href="{{ site.url }}{{ site.baseurl }}/">Home</a>
+          <a class="nav-link{% if page.url == '/' %} active{% endif %}" href="{{ site.url }}{{ site.baseurl }}/#about">About Me</a>
         </li>
         {% for nav in site.nav_pages %}
         <li class="nav-item">
-          <a class="nav-link{% if page.url contains nav.name %} active{% endif %}" href="{{ site.url }}{{ site.baseurl }}/{{ nav.name }}">{{ nav.name | capitalize }}</a>
+          <a class="nav-link" href="{{ site.url }}{{ site.baseurl }}/#{{ nav.name }}">{% if nav.label %}{{ nav.label }}{% else %}{{ nav.name | capitalize }}{% endif %}</a>
         </li>
         {% endfor %}
       </ul>

@@ -2,6 +2,10 @@
 // Reset + global atmosphere
 // =============================================================
 
+#about, #news, #publications, #internship {
+  scroll-margin-top: 90px;
+}
+
 html {
   scroll-behavior: smooth;
 
