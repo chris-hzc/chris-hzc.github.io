@@ -2,6 +2,32 @@
 // Ball Is Life — basketball photo gallery
 // =============================================================
 
+.ball-icon {
+  height: 1.5em;
+  width: 1.5em;
+  object-fit: contain;
+  vertical-align: -0.45em;
+  display: inline-block;
+}
+
+.ball-icon-nav {
+  height: 1.7em;
+  width: 1.7em;
+  vertical-align: -0.5em;
+  animation: ball-bounce 1.4s ease-in-out infinite;
+}
+
+@keyframes ball-bounce {
+  0%   { transform: translateY(0) scale(1); }
+  15%  { transform: translateY(-55%) scale(1); }
+  30%  { transform: translateY(0) scale(1.12, 0.88); }
+  40%  { transform: translateY(0) scale(1); }
+  55%  { transform: translateY(-28%) scale(1); }
+  68%  { transform: translateY(0) scale(1.08, 0.92); }
+  76%  { transform: translateY(0) scale(1); }
+  100% { transform: translateY(0) scale(1); }
+}
+
 .ball-motto {
   font-family: 'Playfair Display', 'Source Serif 4', Georgia, serif;
   font-style: italic;

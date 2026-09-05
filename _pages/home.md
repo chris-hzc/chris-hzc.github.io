@@ -159,7 +159,7 @@ My research focuses on building <strong>trustworthy and efficient AI systems</st
 
 <div id="ball-is-life"></div>
 
-<h2 markdown="0">Ball Is Life &#127936;</h2>
+<h2 markdown="0">Ball Is Life <img src="{{ site.url }}{{ site.baseurl }}/images/basketball.png" alt="🏀" class="ball-icon"></h2>
 
 <p class="ball-motto" markdown="0">Brotherhood is why we play.</p>
 

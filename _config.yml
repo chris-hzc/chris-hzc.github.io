@@ -40,7 +40,7 @@ nav_pages:
   - name: publications
   - name: internship
   - name: ball-is-life
-    label: "Ball Is Life 🏀"
+    label: 'Ball Is Life <img src="/images/basketball.png" alt="🏀" class="ball-icon ball-icon-nav">'
 
 # ============================================================
 # Advanced Settings (you probably don't need to change these)
