@@ -1,0 +1,54 @@
+// =============================================================
+// Ball Is Life — basketball photo gallery
+// =============================================================
+
+.ball-motto {
+  font-family: 'Playfair Display', 'Source Serif 4', Georgia, serif;
+  font-style: italic;
+  font-weight: 700;
+  font-size: 1.75rem;
+  letter-spacing: 0.01em;
+  color: var(--accent);
+  text-align: center;
+  margin: var(--space-4) 0 0;
+}
+
+.ball-gallery {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-6);
+  margin-top: var(--space-6);
+}
+
+.ball-row-images {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: var(--space-4);
+
+  @media (max-width: 600px) {
+    grid-template-columns: 1fr;
+  }
+
+  img {
+    display: block;
+    width: 100%;
+    aspect-ratio: 4 / 3;
+    object-fit: cover;
+    border-radius: var(--radius-lg);
+    border: 1px solid var(--border-color);
+    box-shadow: var(--shadow-sm);
+    transition: transform var(--transition-base);
+
+    &:hover {
+      transform: scale(1.03);
+    }
+  }
+}
+
+.ball-caption {
+  margin: var(--space-2) 0 0;
+  font-size: 0.9375rem;
+  font-weight: 600;
+  color: var(--text-secondary);
+  text-align: center;
+}

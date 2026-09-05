@@ -154,3 +154,28 @@ My research focuses on building <strong>trustworthy and efficient AI systems</st
 </div>
 {% endfor %}
 </div>
+
+---
+
+<div id="ball-is-life"></div>
+
+<h2 markdown="0">Ball Is Life &#127936;</h2>
+
+<p class="ball-motto" markdown="0">Brotherhood is why we play.</p>
+
+<div class="ball-gallery" markdown="0">
+<div class="ball-row">
+<div class="ball-row-images">
+<img src="{{ site.url }}{{ site.baseurl }}/images/team1.jpg" alt="Basketball team" loading="lazy">
+<img src="{{ site.url }}{{ site.baseurl }}/images/champion1.jpg" alt="Championship celebration" loading="lazy">
+</div>
+<p class="ball-caption">&#127942; Champion I</p>
+</div>
+<div class="ball-row">
+<div class="ball-row-images">
+<img src="{{ site.url }}{{ site.baseurl }}/images/team2.jpg" alt="Basketball team" loading="lazy">
+<img src="{{ site.url }}{{ site.baseurl }}/images/champion2.jpg" alt="Championship celebration" loading="lazy">
+</div>
+<p class="ball-caption">&#127942; Champion II</p>
+</div>
+</div>
