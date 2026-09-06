@@ -29,12 +29,13 @@
 }
 
 .ball-motto {
-  font-family: 'Playfair Display', 'Source Serif 4', Georgia, serif;
-  font-style: italic;
-  font-weight: 700;
-  font-size: 1.75rem;
+  font-family: 'Alex Brush', 'Pinyon Script', cursive;
+  font-weight: 500;
+  // !important needed: .home-content > p:first-of-type (in _home.scss) has
+  // higher specificity and this happens to be the first direct-child <p>.
+  font-size: clamp(1.5rem, 10vw, 1.8rem) !important;
   letter-spacing: 0.01em;
-  color: var(--accent);
+  color: var(--accent) !important;
   text-align: center;
   margin: var(--space-4) 0 0;
 }
