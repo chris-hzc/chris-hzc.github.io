@@ -25,6 +25,17 @@
   links:
     - { label: "Paper", url: "https://arxiv.org/abs/2609.02440" }
 
+- title: "CENTILE: A Telemetry Foundation Model Evaluated by the Decisions It Drives"
+  authors: ["Zifan Zhang", "Zhichao Hou", "Tingxiang Ji", "Yuchen Liu"]
+  venue: "Preprint"
+  venue_short: "Preprint"
+  year: 2026
+  preprint: true
+  tags: ["efficient-ai", "ai-for-networking", "generative-models"]
+  links:
+    - { label: "Paper", url: "https://arxiv.org/abs/2608.01725" }
+    - { label: "GitHub", url: "https://github.com/ZzZTripleZzZ/all-in-one" }
+
 - title: "Harnessing Trust in Directed Graphs: Redefining Robustness of Graph Learning"
   authors: ["Zhichao Hou", "Xitong Zhang", "Wei Wang", "Charu C. Aggarwal", "Xiaorui Liu"]
   first_author: true

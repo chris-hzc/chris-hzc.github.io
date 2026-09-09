@@ -28,6 +28,7 @@ permalink: /publications/
     <button class="pub-pill" data-filter="topic" data-value="trustworthy-ai">trustworthy-ai</button>
     <button class="pub-pill" data-filter="topic" data-value="efficient-ai">efficient-ai</button>
     <button class="pub-pill" data-filter="topic" data-value="ai-for-science">ai-for-science</button>
+    <button class="pub-pill" data-filter="topic" data-value="ai-for-networking">ai-for-networking</button>
     <button class="pub-pill" data-filter="topic" data-value="graph-learning">graph-learning</button>
     <button class="pub-pill" data-filter="topic" data-value="adversarial-robustness">adversarial-robustness</button>
     <button class="pub-pill" data-filter="topic" data-value="generative-models">generative-models</button>
