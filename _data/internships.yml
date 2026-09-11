@@ -13,6 +13,10 @@
     - { name: "Xueyu Mao", url: "https://xueyumao.github.io/" }
     - { name: "Yang Liu", url: "https://www.linkedin.com/in/yang-liu-31b0abba/" }
     - { name: "Peijie Qiu", url: "https://scholar.google.com/citations?user=7HLmlHMAAAAJ&hl" }
+  focus: "Building token- and context-efficient LLM systems for modeling behavioral and structured data."
+  outcomes:
+    - { label: "TEFM", url: "https://arxiv.org/abs/2609.09552" }
+    - { label: "CEMBS (pending for final approval)" }
 
 
 - title: "Applied Scientist Intern"
@@ -24,6 +28,10 @@
   mentors:
     - { name: "Ferhat Erata", url: "https://ferhat.ai/" }
     - { name: "MohamadAli Torkamani", url: "https://www.linkedin.com/in/ali-torkamani-8474587/" }
+  focus: "Improving natural language to logical formula translation and reasoning fidelity for LLM-based automated reasoning."
+  outcomes:
+    - { label: "Amazon Research Award", url: "https://www.linkedin.com/feed/update/urn:li:activity:7465507781932982272/" }
+    - { label: "SCD", url: "https://arxiv.org/abs/2608.30258" }
 
 - title: "Applied Scientist Intern"
   company: "Amazon Web Services"
@@ -33,6 +41,9 @@
   end: "Aug 2024"
   mentors:
     - { name: "MohamadAli Torkamani", url: "https://www.linkedin.com/in/ali-torkamani-8474587/" }
+  focus: "Designing efficient hierarchical transformer architectures for representing and analyzing large-scale log data."
+  outcomes:
+    - { label: "HLogformer", url: "https://arxiv.org/abs/2408.16803" }
 
 - title: "Research Intern"
   company: "Baidu, Inc."
@@ -53,3 +64,6 @@
   mentors:
     - { name: "Wenbing Huang", url: "https://scholar.google.com/citations?user=0yNkmO4AAAAJ&hl=zh-CN" }
     - { name: "Yu Rong", url: "https://royrong.me/" }
+  focus: "Developing equivariant spatio-temporal graph neural networks to simulate physical dynamics."
+  outcomes:
+    - { label: "ESTAG [NeurIPS 2023]", url: "https://proceedings.neurips.cc/paper_files/paper/2023/hash/8e2a75e0c7b579a6cf176dc0858cde55-Abstract-Conference.html" }

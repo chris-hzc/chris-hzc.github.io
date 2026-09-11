@@ -1,6 +1,17 @@
 # Publications shown on the /publications/ page.
 # tags drive the TOPIC filter pills; keep tag slugs kebab-case.
 
+- title: "TEFM: Token-Efficient Faithful Modeling for Structured Data"
+  authors: ["Zhichao Hou", "Lingdao Sha", "Xueyu Mao", "Yang Liu", "Peijie Qiu", "Rui Song"]
+  first_author: true
+  venue: "Preprint"
+  venue_short: "Preprint"
+  year: 2026
+  preprint: true
+  tags: ["llm", "efficient-ai"]
+  links:
+    - { label: "Paper", url: "https://arxiv.org/abs/2609.09552" }
+
 - title: "Stratified Consistency Distillation for Natural Language Formalization"
   authors: ["Zhichao Hou", "Ferhat Erata", "Joe Lilien", "MohamadAli Torkamani"]
   first_author: true

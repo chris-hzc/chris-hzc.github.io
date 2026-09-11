@@ -107,3 +107,19 @@
   color: var(--text-secondary);
   font-size: 0.9375rem;
 }
+
+.timeline-focus {
+  margin: var(--space-1) 0 0;
+  color: var(--text-muted);
+  font-style: italic;
+  font-size: 0.8125rem;
+
+  a {
+    color: var(--accent);
+    font-style: normal;
+  }
+
+  .timeline-link-icon {
+    font-size: 0.7em;
+  }
+}
