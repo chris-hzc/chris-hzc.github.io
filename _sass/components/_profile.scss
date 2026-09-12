@@ -52,6 +52,13 @@
     margin-top: 0;
   }
 
+  .profile-name-cn {
+    font-family: 'Ma Shan Zheng', cursive;
+    font-size: 1.5rem;
+    color: var(--accent);
+    margin: 0 0 var(--space-1);
+  }
+
   .profile-title {
     font-size: 0.875rem;
     color: var(--text-secondary);
