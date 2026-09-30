@@ -22,10 +22,9 @@
 - title: "Stratified Consistency Distillation for Natural Language Formalization"
   authors: ["Zhichao Hou", "Ferhat Erata", "Joe Lilien", "MohamadAli Torkamani"]
   first_author: true
-  venue: "Preprint"
-  venue_short: "Preprint"
+  venue: "Neural Information Processing Systems (NeurIPS) Workshop VERICODEGEN"
+  venue_short: "NeurIPS Workshop"
   year: 2026
-  preprint: true
   tags: ["llm", "efficient-ai"]
   links:
     - { label: "Paper", url: "https://arxiv.org/abs/2608.30258" }
@@ -114,7 +113,7 @@
 
 - title: "Post-hoc Interpretability Illumination for Scientific Interaction Discovery"
   authors: ["Ling Zhang", "Zhichao Hou", "Tingxiang Ji", "Yuanyuan Xu", "Runze Li"]
-  venue: "ICLR Workshop XAI4Science"
+  venue: "International Conference on Learning Representations (ICLR) Workshop XAI4Science"
   venue_short: "ICLR Workshop"
   year: 2025
   tags: ["ai-for-science"]
@@ -131,8 +130,8 @@
     - { label: "Paper", url: "https://arxiv.org/abs/2411.03522" }
     - { label: "GitHub", url: "https://github.com/houzhichao/llm4bio" }
 
-- title: "Boosting Adversarial Robustness and Generalization with Structural Prior"
-  authors: ["Zhichao Hou", "Weizhi Gao", "Hamid Krim", "Xiaorui Liu"]
+- title: "Boosting Adversarial Robustness and Generalization with Dictionary Structure"
+  authors: ["Zhichao Hou", "Weizhi Gao", "Hamid Krim", "Runze Li", "Xiaorui Liu"]
   first_author: true
   featured: true
   feature_rank: 6
@@ -203,12 +202,11 @@
     - { label: "GitHub", url: "https://github.com/Wu-Lab/SCARP" }
 
 - title: "HLogformer: A Hierarchical Transformer for Representing Log Data"
-  authors: ["Zhichao Hou", "Mina Ghashami", "Mikhail Kuznetsov", "MohamadAli Torkamani"]
+  authors: ["Zhichao Hou", "Mina Ghashami", "Mikhail Kuznetsov", "Zifan Zhang", "Ali Torkamani"]
   first_author: true
-  venue: "Preprint"
-  venue_short: "Preprint"
-  year: 2024
-  preprint: true
+  venue: "Neural Information Processing Systems (NeurIPS) Workshop LCFM"
+  venue_short: "NeurIPS Workshop"
+  year: 2026
   tags: ["efficient-ai", "transformers"]
   links:
     - { label: "Paper", url: "https://arxiv.org/abs/2408.16803" }
