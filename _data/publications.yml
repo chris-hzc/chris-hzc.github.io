@@ -76,6 +76,7 @@
   links:
     - { label: "Paper", url: "https://arxiv.org/abs/2510.26981" }
     - { label: "GitHub", url: "https://github.com/chris-hzc/spiking_attack" }
+    - { label: "Website", url: "https://chris-hzc.github.io/spiking_attack/" }
 
 - title: "Hierarchical Multi-Scale Molecular Conformer Generation with Structural Awareness"
   authors: ["Jiapeng Hu", "Weizhi Gao", "Zhichao Hou", "Xiaorui Liu"]
@@ -100,6 +101,7 @@
   links:
     - { label: "Paper", url: "https://arxiv.org/abs/2410.04577" }
     - { label: "GitHub", url: "https://github.com/chris-hzc/NRPM" }
+    - { label: "Website", url: "https://chris-hzc.github.io/Robustness-Reprogramming/" }
     - { label: "Poster", url: "images/robustness_reprogramming_poster.png" }
 
 - title: "Modulated Diffusion: Accelerating Generative Modeling with Modulated Quantization"
@@ -155,6 +157,7 @@
   links:
     - { label: "Paper", url: "https://arxiv.org/abs/2410.23182" }
     - { label: "GitHub", url: "https://github.com/chris-hzc/ProTransformer" }
+    - { label: "Website", url: "https://protransformers.github.io/" }
     - { label: "Poster", url: "images/protransformer_poster.png" }
 
 - title: "Robust Graph Neural Networks via Unbiased Aggregation"
@@ -169,6 +172,7 @@
   links:
     - { label: "Paper", url: "https://arxiv.org/abs/2311.14934v2" }
     - { label: "GitHub", url: "https://github.com/chris-hzc/RUNG" }
+    - { label: "Website", url: "https://chris-hzc.github.io/RUNG/" }
     - { label: "Poster", url: "images/rung_poster.png" }
 
 - title: "Certified Robustness for Deep Equilibrium Models via Serialized Random Smoothing"
