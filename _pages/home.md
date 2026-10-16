@@ -14,7 +14,7 @@ permalink: /
 I am currently a Ph.D. student in Computer Science at <a href="https://www.ncsu.edu/">North Carolina State University</a>, where I am fortunate to be advised by <a href="https://sites.google.com/ncsu.edu/xiaorui/">Prof. Xiaorui Liu</a>. Prior to that, I received my M.S. degree in Mathematics from the <a href="http://www.amss.ac.cn/">Chinese Academy of Sciences</a>, and my B.S. degree in Mathematics from <a href="http://math.bnu.edu.cn/">Beijing Normal University</a>.
 I have gained diverse industry research experience at <a href="https://trustworthyshopping.aboutamazon.com/">Trustworthy Shopping at Amazon</a> (2026), <a href="https://www.amazon.science/research-areas/automated-reasoning">Automated Reasoning at AWS AI</a> (2025), <a href="https://aws.amazon.com/guardduty/">Amazon GuardDuty</a> (2024), <a href="https://ir.baidu.com/">Baidu, Inc.</a> (2023), and <a href="https://air.tsinghua.edu.cn/">Tsinghua AIR</a> (2022).
 
-My research focuses on building <strong>trustworthy and efficient AI systems</strong> that extend naturally to real-world applications in science and industry:
+My research focuses on building <strong>scalable trustworthy AI systems</strong> — models that stay reliable across dynamic, real-world environments while remaining efficient to train, deploy, and run — with applications extending naturally to science and industry:
 
 </div>
 
