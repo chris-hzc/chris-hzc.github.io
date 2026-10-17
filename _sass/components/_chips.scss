@@ -100,15 +100,66 @@
   transition: transform var(--transition-fast);
 }
 
+.level-keywords {
+  font-weight: 400;
+  font-size: 0.875rem;
+  color: var(--text-muted);
+}
+
+// Plain numbered list of expandable items (no bordered box per item)
+.interest-level-list {
+  list-style: none;
+  margin: 0 0 var(--space-5);
+  padding-left: 0;
+
+  li {
+    margin-bottom: var(--space-2);
+  }
+
+  .interest-accordion {
+    border: none;
+    border-radius: 0;
+    overflow: visible;
+
+    summary {
+      padding: var(--space-1) 0;
+      background-color: transparent;
+      gap: var(--space-2);
+      flex-wrap: wrap;
+    }
+
+    p {
+      margin: 0;
+      padding: var(--space-2) 0 var(--space-2) var(--space-6);
+      color: var(--text-secondary);
+      line-height: 1.6;
+    }
+
+    ol {
+      list-style-position: inside;
+      margin: 0 0 var(--space-3) var(--space-6);
+      padding: 0;
+    }
+  }
+}
+
 .ref-tag {
-  color: var(--accent);
-  font-weight: 600;
+  color: #2c5578;
+  font-weight: 500;
+  font-style: italic;
+  font-size: 0.875em;
   text-decoration: none;
   white-space: nowrap;
+  transition: color var(--transition-fast);
 
   &:hover {
+    color: var(--accent);
     text-decoration: underline;
   }
+}
+
+[data-bs-theme="dark"] .ref-tag {
+  color: #6fa8d6;
 }
 
 // Highlight callout — eye-catching announcement box

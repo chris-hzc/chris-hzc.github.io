@@ -14,38 +14,42 @@ permalink: /
 I am currently a Ph.D. student in Computer Science at <a href="https://www.ncsu.edu/">North Carolina State University</a>, where I am fortunate to be advised by <a href="https://sites.google.com/ncsu.edu/xiaorui/">Prof. Xiaorui Liu</a>. Prior to that, I received my M.S. degree in Mathematics from the <a href="http://www.amss.ac.cn/">Chinese Academy of Sciences</a>, and my B.S. degree in Mathematics from <a href="http://math.bnu.edu.cn/">Beijing Normal University</a>.
 I have gained diverse industry research experience at <a href="https://trustworthyshopping.aboutamazon.com/">Trustworthy Shopping at Amazon</a> (2026), <a href="https://www.amazon.science/research-areas/automated-reasoning">Automated Reasoning at AWS AI</a> (2025), <a href="https://aws.amazon.com/guardduty/">Amazon GuardDuty</a> (2024), <a href="https://ir.baidu.com/">Baidu, Inc.</a> (2023), and <a href="https://air.tsinghua.edu.cn/">Tsinghua AIR</a> (2022).
 
-My research focuses on building <strong>scalable trustworthy AI systems</strong> — models that stay reliable across dynamic, real-world environments while remaining efficient to train, deploy, and run — with applications extending naturally to science and industry:
+My research focuses on building <strong>scalable trustworthy AI systems</strong> that stay reliable across dynamic environments while remaining efficient to train, deploy, and store, which can be divided into three pieces:
 
 </div>
 
 <div class="interest-list" markdown="0">
 
+<ol class="interest-level-list">
+<li>
 <details class="interest-accordion">
-<summary><span class="accordion-arrow">&#9654;</span> Trustworthy AI</summary>
+<summary><span class="accordion-arrow">&#9654;</span> Architecture Level <span class="level-keywords">— Robustness-Informed Neural Networks (RINNs) Framework</span></summary>
+<p>Grounded in the theoretical foundations of robust statistics and non-convex optimization, I propose <strong>robustness-informed neural networks (RINNs)</strong>, a principled framework applicable across diverse architectures and domains. I instantiate RINNs for transformers via robust attention <a class="ref-tag" href="https://arxiv.org/abs/2410.23182" target="_blank" rel="noopener noreferrer">[ProTransformer, NeurIPS'24]</a>, for graph neural networks via unbiased robust aggregation <a class="ref-tag" href="https://arxiv.org/abs/2311.14934v2" target="_blank" rel="noopener noreferrer">[RUNG, NeurIPS'24]</a>, and for convolutional networks via robust dictionary structure <a class="ref-tag" href="https://arxiv.org/abs/2502.00834" target="_blank" rel="noopener noreferrer">[EDLNets]</a>.</p>
+</details>
+</li>
+<li>
+<details class="interest-accordion">
+<summary><span class="accordion-arrow">&#9654;</span> Deployment Level <span class="level-keywords">— Training Acceleration &middot; Resource Limit &middot; Dynamic Risk</span></summary>
+<p>Real-world deployment is constrained by limited training budgets, heterogeneous compute, and ever-changing environments, raising three practical questions I pursue:</p>
 <ol>
-<li>Design universal robustness-informed architectures, including robust transformers <a class="ref-tag" href="https://arxiv.org/abs/2410.23182" target="_blank" rel="noopener noreferrer">[ProTransformer, NeurIPS'24]</a>, reprogrammable representations that adapt any pretrained deep learning model for robustness <a class="ref-tag" href="https://arxiv.org/abs/2410.04577" target="_blank" rel="noopener noreferrer">[NRPM, ICLR'25]</a>, robust aggregation for graph learning <a class="ref-tag" href="https://arxiv.org/abs/2311.14934v2" target="_blank" rel="noopener noreferrer">[RUNG, NeurIPS'24]</a> <a class="ref-tag" href="https://arxiv.org/abs/2306.02002" target="_blank" rel="noopener noreferrer">[BBRW, TKDD'26]</a>, robust dictionary learning <a class="ref-tag" href="https://arxiv.org/abs/2502.00834" target="_blank" rel="noopener noreferrer">[EDLNets]</a>, and noise-conditional networks <a class="ref-tag" href="https://arxiv.org/abs/2609.02440" target="_blank" rel="noopener noreferrer">[TCN]</a>.</li>
-<li>Achieve better accuracy-robustness Pareto frontiers through robustness reprogramming under three paradigms <a class="ref-tag" href="https://arxiv.org/abs/2410.04577" target="_blank" rel="noopener noreferrer">[Robustness Reprogramming, ICLR'25]</a>, noise-conditional networks <a class="ref-tag" href="https://arxiv.org/abs/2609.02440" target="_blank" rel="noopener noreferrer">[TCN]</a>, and mixtures of robust experts.</li>
-<li>Develop efficient iterative attacks and adversarial training <a class="ref-tag" href="https://arxiv.org/abs/2510.26981" target="_blank" rel="noopener noreferrer">[Spiking Attacks, ICLR'26]</a>.</li>
+<li><strong>How to accelerate robust training?</strong> I cut the cost of robust training by removing redundancy across iterative attack/defense steps, matching standard adversarial training's robustness with only 30% of the training budget <a class="ref-tag" href="https://arxiv.org/abs/2510.26981" target="_blank" rel="noopener noreferrer">[Spiking Attacks, ICLR'26]</a>.</li>
+<li><strong>How to robustify models with limited resource?</strong> I enable resource-adaptive robustification of pretrained models through training-free integration <a class="ref-tag" href="https://arxiv.org/abs/2410.23182" target="_blank" rel="noopener noreferrer">[ProTransformer, NeurIPS'24]</a> and versatile robustness reprogramming across paradigms spanning training-free adaptation to full fine-tuning <a class="ref-tag" href="https://arxiv.org/abs/2410.04577" target="_blank" rel="noopener noreferrer">[Robustness Reprogramming, ICLR'25]</a>.</li>
+<li><strong>How can a single model handle dynamic environments?</strong> I train one all-in-one model conditioned on risk type, so new risks are met with a lightweight adapter rather than retraining the backbone <span class="ref-tag">[CAN]</span>.</li>
 </ol>
 </details>
-
+</li>
+<li>
 <details class="interest-accordion">
-<summary><span class="accordion-arrow">&#9654;</span> Efficient AI</summary>
+<summary><span class="accordion-arrow">&#9654;</span> Computing Level <span class="level-keywords">— Algorithmic Acceleration &middot; Kernel Efficiency &middot; Precision Reduction</span></summary>
+<p>I systematically cut computational overhead across all three levels:</p>
 <ol>
-<li>Address efficiency problems in safety and robustness: efficient iterative attacks and adversarial training <a class="ref-tag" href="https://arxiv.org/abs/2510.26981" target="_blank" rel="noopener noreferrer">[Spiking Attacks, ICLR'26]</a>, training-free robust deployment <a class="ref-tag" href="https://arxiv.org/abs/2410.23182" target="_blank" rel="noopener noreferrer">[ProTransformer, NeurIPS'24]</a> <a class="ref-tag" href="https://arxiv.org/abs/2410.04577" target="_blank" rel="noopener noreferrer">[Robustness Reprogramming, ICLR'25]</a>, one-for-all defense <a class="ref-tag" href="https://arxiv.org/abs/2609.02440" target="_blank" rel="noopener noreferrer">[TCN]</a>, and efficient certifiable defense <a class="ref-tag" href="https://arxiv.org/abs/2411.00899" target="_blank" rel="noopener noreferrer">[SRS, NeurIPS'24]</a>.</li>
-<li>Improve efficiency by reducing redundancy in iterative computation: accelerating iterative attacks <a class="ref-tag" href="https://arxiv.org/abs/2510.26981" target="_blank" rel="noopener noreferrer">[Spiking Attacks, ICLR'26]</a>, accelerating randomized smoothing <a class="ref-tag" href="https://arxiv.org/abs/2411.00899" target="_blank" rel="noopener noreferrer">[SRS, NeurIPS'24]</a>, accelerating generative modeling via modulated quantization <a class="ref-tag" href="https://arxiv.org/abs/2506.22463" target="_blank" rel="noopener noreferrer">[ModDiff, ICML'25]</a>, and accelerating large-scale GNN training via incremental aggregation <a class="ref-tag" href="#publications">[IncAgg-GNN, NeurIPS'26]</a>.</li>
-<li>Pursue context- and token-efficiency in LLMs: a hierarchical transformer for log data <a class="ref-tag" href="https://arxiv.org/abs/2408.16803" target="_blank" rel="noopener noreferrer">[HLogformer, NeurIPS WS'26]</a>, and context-efficient modeling for structured data <a class="ref-tag" href="https://arxiv.org/abs/2609.09552" target="_blank" rel="noopener noreferrer">[TEFM]</a> <a class="ref-tag" href="#internship">[CEMBS]</a>.</li>
+<li><strong>Algorithm-wise:</strong> I eliminate redundant operations across iterative trustworthy-AI procedures, accelerating iterative attacks and adversarial training <a class="ref-tag" href="https://arxiv.org/abs/2510.26981" target="_blank" rel="noopener noreferrer">[Spiking Attacks, ICLR'26]</a>, randomized smoothing <a class="ref-tag" href="https://arxiv.org/abs/2411.00899" target="_blank" rel="noopener noreferrer">[SRS, NeurIPS'24]</a>, and memory-enhanced graph learning <a class="ref-tag" href="#publications">[IncAgg-GNN, NeurIPS'26]</a>.</li>
+<li><strong>Kernel-wise:</strong> I design hardware-aware GPU kernels that minimize memory traffic, fusing robust reweighting into IO-aware attention kernels to safeguard LLM agents in real time <span class="ref-tag">[ProFlashAttention]</span>.</li>
+<li><strong>Precision-wise:</strong> I compute with fewer bits by quantizing the small, stabilizing updates in iterative procedures rather than full activations, as in accelerated generative modeling <a class="ref-tag" href="https://arxiv.org/abs/2506.22463" target="_blank" rel="noopener noreferrer">[ModDiff, ICML'25]</a>, extending to quantized iterative attacks and adversarial training.</li>
 </ol>
 </details>
-
-<details class="interest-accordion">
-<summary><span class="accordion-arrow">&#9654;</span> AI for Science &amp; Industry</summary>
-<ol>
-<li>Biology: molecular dynamics modeling <a class="ref-tag" href="https://proceedings.neurips.cc/paper_files/paper/2023/hash/8e2a75e0c7b579a6cf176dc0858cde55-Abstract-Conference.html" target="_blank" rel="noopener noreferrer">[ESTAG, NeurIPS'23]</a> and molecule generation <a class="ref-tag" href="https://openreview.net/forum?id=uYlNjHC7ag" target="_blank" rel="noopener noreferrer">[MolConf, ICLR'26]</a>; genomics, including explainable survival analysis <a class="ref-tag" href="https://link.springer.com/article/10.1186/s12859-023-05535-2" target="_blank" rel="noopener noreferrer">[PathExpSurv, BMC'23]</a>, LLMs for lncRNA regulation <a class="ref-tag" href="https://arxiv.org/abs/2411.03522" target="_blank" rel="noopener noreferrer">[LLM4Bio, MABM'25]</a>, single-cell chromatin accessibility <a class="ref-tag" href="https://academic.oup.com/bib/article/25/2/bbae093/7630481" target="_blank" rel="noopener noreferrer">[SCARP, BiB'24]</a>, and interpretable scientific interaction discovery <a class="ref-tag" href="https://arxiv.org/abs/2412.16252" target="_blank" rel="noopener noreferrer">[XAI4Sci, ICLR WS'25]</a>.</li>
-<li>Interdisciplinary AI: extending these methods to networking <a class="ref-tag" href="https://arxiv.org/abs/2608.01725" target="_blank" rel="noopener noreferrer">[CENTILE]</a> and transportation.</li>
-<li>LLM post-training for industrial applications: natural language formalization <a class="ref-tag" href="https://arxiv.org/abs/2608.30258" target="_blank" rel="noopener noreferrer">[SCD, NeurIPS WS'26]</a> and context-efficient modeling <a class="ref-tag" href="https://arxiv.org/abs/2408.16803" target="_blank" rel="noopener noreferrer">[HLogformer, NeurIPS WS'26]</a> <a class="ref-tag" href="https://arxiv.org/abs/2609.09552" target="_blank" rel="noopener noreferrer">[TEFM]</a> <a class="ref-tag" href="#internship">[CEMBS]</a>.</li>
+</li>
 </ol>
-</details>
 
 </div>
 
